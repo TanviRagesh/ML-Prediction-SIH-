@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mumbai Local Station Analysis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Mumbai Local Station Analysis 🚉</h1>
+        <div id="error-message"></div>
+        <div class="input-group">
+            <div class="autocomplete">
+                <input id="stationInput" type="text" placeholder="Type or select a station...">
+            </div>
+            <button id="analysisBtn">Get Analysis</button>
+        </div>
+        <div id="results">
+            </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

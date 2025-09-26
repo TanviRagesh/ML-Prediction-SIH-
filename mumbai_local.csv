@@ -1,0 +1,2833 @@
+Station,Time,Crowd_Level,Safety_Rating
+Churchgate,00:00,Low,2
+Churchgate,01:00,Low,1
+Churchgate,02:00,Low,1
+Churchgate,03:00,Low,1
+Churchgate,04:00,Low,2
+Churchgate,05:00,Medium,4
+Churchgate,06:00,Medium,4
+Churchgate,07:00,High,3
+Churchgate,08:00,High,3
+Churchgate,09:00,High,3
+Churchgate,10:00,High,3
+Churchgate,11:00,Medium,4
+Churchgate,12:00,Medium,5
+Churchgate,13:00,Medium,5
+Churchgate,14:00,Medium,5
+Churchgate,15:00,Medium,4
+Churchgate,16:00,Medium,4
+Churchgate,17:00,High,3
+Churchgate,18:00,High,3
+Churchgate,19:00,High,3
+Churchgate,20:00,High,3
+Churchgate,21:00,Medium,4
+Churchgate,22:00,Medium,3
+Churchgate,23:00,Low,2
+Marine Lines,00:00,Low,2
+Marine Lines,01:00,Low,1
+Marine Lines,02:00,Low,1
+Marine Lines,03:00,Low,1
+Marine Lines,04:00,Low,2
+Marine Lines,05:00,Medium,4
+Marine Lines,06:00,Medium,4
+Marine Lines,07:00,High,3
+Marine Lines,08:00,High,3
+Marine Lines,09:00,High,3
+Marine Lines,10:00,High,3
+Marine Lines,11:00,Medium,4
+Marine Lines,12:00,Medium,5
+Marine Lines,13:00,Medium,5
+Marine Lines,14:00,Medium,5
+Marine Lines,15:00,Medium,4
+Marine Lines,16:00,Medium,4
+Marine Lines,17:00,High,3
+Marine Lines,18:00,High,3
+Marine Lines,19:00,High,3
+Marine Lines,20:00,High,3
+Marine Lines,21:00,Medium,4
+Marine Lines,22:00,Medium,3
+Marine Lines,23:00,Low,2
+Charni Road,00:00,Low,2
+Charni Road,01:00,Low,1
+Charni Road,02:00,Low,1
+Charni Road,03:00,Low,1
+Charni Road,04:00,Low,2
+Charni Road,05:00,Medium,4
+Charni Road,06:00,Medium,4
+Charni Road,07:00,High,3
+Charni Road,08:00,High,3
+Charni Road,09:00,High,3
+Charni Road,10:00,High,3
+Charni Road,11:00,Medium,4
+Charni Road,12:00,Medium,5
+Charni Road,13:00,Medium,5
+Charni Road,14:00,Medium,5
+Charni Road,15:00,Medium,4
+Charni Road,16:00,Medium,4
+Charni Road,17:00,High,3
+Charni Road,18:00,High,3
+Charni Road,19:00,High,3
+Charni Road,20:00,High,3
+Charni Road,21:00,Medium,4
+Charni Road,22:00,Medium,3
+Charni Road,23:00,Low,2
+Grant Road,00:00,Low,2
+Grant Road,01:00,Low,1
+Grant Road,02:00,Low,1
+Grant Road,03:00,Low,1
+Grant Road,04:00,Low,3
+Grant Road,05:00,Medium,4
+Grant Road,06:00,Medium,4
+Grant Road,07:00,High,3
+Grant Road,08:00,High,2
+Grant Road,09:00,High,2
+Grant Road,10:00,High,3
+Grant Road,11:00,Medium,4
+Grant Road,12:00,Medium,4
+Grant Road,13:00,Medium,4
+Grant Road,14:00,Medium,4
+Grant Road,15:00,Medium,4
+Grant Road,16:00,High,3
+Grant Road,17:00,High,3
+Grant Road,18:00,High,2
+Grant Road,19:00,High,2
+Grant Road,20:00,High,3
+Grant Road,21:00,Medium,4
+Grant Road,22:00,Medium,3
+Grant Road,23:00,Low,2
+Mumbai Central,00:00,Low,2
+Mumbai Central,01:00,Low,1
+Mumbai Central,02:00,Low,1
+Mumbai Central,03:00,Low,1
+Mumbai Central,04:00,Low,3
+Mumbai Central,05:00,Medium,4
+Mumbai Central,06:00,Medium,4
+Mumbai Central,07:00,High,3
+Mumbai Central,08:00,High,2
+Mumbai Central,09:00,High,2
+Mumbai Central,10:00,High,3
+Mumbai Central,11:00,Medium,4
+Mumbai Central,12:00,Medium,4
+Mumbai Central,13:00,Medium,4
+Mumbai Central,14:00,Medium,4
+Mumbai Central,15:00,Medium,4
+Mumbai Central,16:00,High,3
+Mumbai Central,17:00,High,3
+Mumbai Central,18:00,High,2
+Mumbai Central,19:00,High,2
+Mumbai Central,20:00,High,3
+Mumbai Central,21:00,Medium,4
+Mumbai Central,22:00,Medium,3
+Mumbai Central,23:00,Low,2
+Mahalaxmi,00:00,Low,2
+Mahalaxmi,01:00,Low,1
+Mahalaxmi,02:00,Low,1
+Mahalaxmi,03:00,Low,1
+Mahalaxmi,04:00,Low,2
+Mahalaxmi,05:00,Medium,3
+Mahalaxmi,06:00,Medium,4
+Mahalaxmi,07:00,High,3
+Mahalaxmi,08:00,High,3
+Mahalaxmi,09:00,High,3
+Mahalaxmi,10:00,High,3
+Mahalaxmi,11:00,Medium,4
+Mahalaxmi,12:00,Medium,4
+Mahalaxmi,13:00,Medium,4
+Mahalaxmi,14:00,Medium,4
+Mahalaxmi,15:00,Medium,4
+Mahalaxmi,16:00,High,3
+Mahalaxmi,17:00,High,3
+Mahalaxmi,18:00,High,3
+Mahalaxmi,19:00,High,3
+Mahalaxmi,20:00,High,3
+Mahalaxmi,21:00,Medium,4
+Mahalaxmi,22:00,Medium,3
+Mahalaxmi,23:00,Low,2
+Lower Parel,00:00,Low,2
+Lower Parel,01:00,Low,1
+Lower Parel,02:00,Low,1
+Lower Parel,03:00,Low,1
+Lower Parel,04:00,Low,2
+Lower Parel,05:00,Medium,3
+Lower Parel,06:00,Medium,4
+Lower Parel,07:00,High,3
+Lower Parel,08:00,High,2
+Lower Parel,09:00,High,2
+Lower Parel,10:00,High,2
+Lower Parel,11:00,Medium,4
+Lower Parel,12:00,Medium,4
+Lower Parel,13:00,Medium,4
+Lower Parel,14:00,Medium,4
+Lower Parel,15:00,Medium,4
+Lower Parel,16:00,High,3
+Lower Parel,17:00,High,2
+Lower Parel,18:00,High,2
+Lower Parel,19:00,High,2
+Lower Parel,20:00,High,3
+Lower Parel,21:00,Medium,3
+Lower Parel,22:00,Medium,3
+Lower Parel,23:00,Low,2
+Elphinston Rd,00:00,Low,2
+Elphinston Rd,01:00,Low,1
+Elphinston Rd,02:00,Low,1
+Elphinston Rd,03:00,Low,1
+Elphinston Rd,04:00,Low,2
+Elphinston Rd,05:00,Medium,3
+Elphinston Rd,06:00,Medium,4
+Elphinston Rd,07:00,High,3
+Elphinston Rd,08:00,High,2
+Elphinston Rd,09:00,High,2
+Elphinston Rd,10:00,High,2
+Elphinston Rd,11:00,Medium,4
+Elphinston Rd,12:00,Medium,4
+Elphinston Rd,13:00,Medium,4
+Elphinston Rd,14:00,Medium,4
+Elphinston Rd,15:00,Medium,4
+Elphinston Rd,16:00,High,3
+Elphinston Rd,17:00,High,2
+Elphinston Rd,18:00,High,2
+Elphinston Rd,19:00,High,2
+Elphinston Rd,20:00,High,3
+Elphinston Rd,21:00,Medium,3
+Elphinston Rd,22:00,Medium,3
+Elphinston Rd,23:00,Low,2
+Dadar,00:00,Low,2
+Dadar,01:00,Low,1
+Dadar,02:00,Low,1
+Dadar,03:00,Low,1
+Dadar,04:00,Medium,3
+Dadar,05:00,Medium,4
+Dadar,06:00,High,3
+Dadar,07:00,High,2
+Dadar,08:00,High,2
+Dadar,09:00,High,2
+Dadar,10:00,High,2
+Dadar,11:00,High,3
+Dadar,12:00,Medium,4
+Dadar,13:00,Medium,4
+Dadar,14:00,Medium,4
+Dadar,15:00,Medium,4
+Dadar,16:00,High,3
+Dadar,17:00,High,2
+Dadar,18:00,High,2
+Dadar,19:00,High,2
+Dadar,20:00,High,2
+Dadar,21:00,High,3
+Dadar,22:00,Medium,3
+Dadar,23:00,Low,2
+Matunga Rd,00:00,Low,2
+Matunga Rd,01:00,Low,1
+Matunga Rd,02:00,Low,1
+Matunga Rd,03:00,Low,1
+Matunga Rd,04:00,Low,2
+Matunga Rd,05:00,Medium,3
+Matunga Rd,06:00,Medium,4
+Matunga Rd,07:00,High,3
+Matunga Rd,08:00,High,3
+Matunga Rd,09:00,High,3
+Matunga Rd,10:00,Medium,4
+Matunga Rd,11:00,Medium,4
+Matunga Rd,12:00,Medium,4
+Matunga Rd,13:00,Medium,4
+Matunga Rd,14:00,Medium,4
+Matunga Rd,15:00,Medium,4
+Matunga Rd,16:00,High,3
+Matunga Rd,17:00,High,3
+Matunga Rd,18:00,High,3
+Matunga Rd,19:00,High,3
+Matunga Rd,20:00,Medium,4
+Matunga Rd,21:00,Medium,3
+Matunga Rd,22:00,Medium,3
+Matunga Rd,23:00,Low,2
+Mahim Jn,00:00,Low,2
+Mahim Jn,01:00,Low,1
+Mahim Jn,02:00,Low,1
+Mahim Jn,03:00,Low,1
+Mahim Jn,04:00,Low,2
+Mahim Jn,05:00,Medium,3
+Mahim Jn,06:00,Medium,4
+Mahim Jn,07:00,High,3
+Mahim Jn,08:00,High,2
+Mahim Jn,09:00,High,2
+Mahim Jn,10:00,Medium,3
+Mahim Jn,11:00,Medium,4
+Mahim Jn,12:00,Medium,4
+Mahim Jn,13:00,Medium,4
+Mahim Jn,14:00,Medium,4
+Mahim Jn,15:00,Medium,4
+Mahim Jn,16:00,High,3
+Mahim Jn,17:00,High,2
+Mahim Jn,18:00,High,2
+Mahim Jn,19:00,High,2
+Mahim Jn,20:00,High,3
+Mahim Jn,21:00,Medium,3
+Mahim Jn,22:00,Medium,3
+Mahim Jn,23:00,Low,2
+Bandra,00:00,Low,2
+Bandra,01:00,Low,1
+Bandra,02:00,Low,1
+Bandra,03:00,Low,1
+Bandra,04:00,Medium,3
+Bandra,05:00,Medium,4
+Bandra,06:00,High,3
+Bandra,07:00,High,2
+Bandra,08:00,High,2
+Bandra,09:00,High,2
+Bandra,10:00,High,3
+Bandra,11:00,Medium,4
+Bandra,12:00,Medium,4
+Bandra,13:00,Medium,4
+Bandra,14:00,Medium,4
+Bandra,15:00,Medium,4
+Bandra,16:00,High,3
+Bandra,17:00,High,2
+Bandra,18:00,High,2
+Bandra,19:00,High,2
+Bandra,20:00,High,3
+Bandra,21:00,Medium,4
+Bandra,22:00,Medium,3
+Bandra,23:00,Low,2
+Khar Rd,00:00,Low,2
+Khar Rd,01:00,Low,1
+Khar Rd,02:00,Low,1
+Khar Rd,03:00,Low,1
+Khar Rd,04:00,Low,2
+Khar Rd,05:00,Medium,3
+Khar Rd,06:00,Medium,4
+Khar Rd,07:00,High,3
+Khar Rd,08:00,High,2
+Khar Rd,09:00,High,2
+Khar Rd,10:00,Medium,3
+Khar Rd,11:00,Medium,4
+Khar Rd,12:00,Medium,4
+Khar Rd,13:00,Medium,4
+Khar Rd,14:00,Medium,4
+Khar Rd,15:00,Medium,4
+Khar Rd,16:00,High,3
+Khar Rd,17:00,High,2
+Khar Rd,18:00,High,2
+Khar Rd,19:00,High,2
+Khar Rd,20:00,Medium,3
+Khar Rd,21:00,Medium,3
+Khar Rd,22:00,Medium,3
+Khar Rd,23:00,Low,2
+Santacruz,00:00,Low,2
+Santacruz,01:00,Low,1
+Santacruz,02:00,Low,1
+Santacruz,03:00,Low,1
+Santacruz,04:00,Low,2
+Santacruz,05:00,Medium,3
+Santacruz,06:00,Medium,4
+Santacruz,07:00,High,3
+Santacruz,08:00,High,2
+Santacruz,09:00,High,2
+Santacruz,10:00,Medium,3
+Santacruz,11:00,Medium,4
+Santacruz,12:00,Medium,4
+Santacruz,13:00,Medium,4
+Santacruz,14:00,Medium,4
+Santacruz,15:00,Medium,4
+Santacruz,16:00,High,3
+Santacruz,17:00,High,2
+Santacruz,18:00,High,2
+Santacruz,19:00,High,2
+Santacruz,20:00,Medium,3
+Santacruz,21:00,Medium,3
+Santacruz,22:00,Medium,3
+Santacruz,23:00,Low,2
+Vile Parle,00:00,Low,2
+Vile Parle,01:00,Low,1
+Vile Parle,02:00,Low,1
+Vile Parle,03:00,Low,1
+Vile Parle,04:00,Low,2
+Vile Parle,05:00,Medium,3
+Vile Parle,06:00,Medium,4
+Vile Parle,07:00,High,3
+Vile Parle,08:00,High,2
+Vile Parle,09:00,High,2
+Vile Parle,10:00,Medium,3
+Vile Parle,11:00,Medium,4
+Vile Parle,12:00,Medium,4
+Vile Parle,13:00,Medium,4
+Vile Parle,14:00,Medium,4
+Vile Parle,15:00,Medium,4
+Vile Parle,16:00,High,3
+Vile Parle,17:00,High,2
+Vile Parle,18:00,High,2
+Vile Parle,19:00,High,2
+Vile Parle,20:00,Medium,3
+Vile Parle,21:00,Medium,3
+Vile Parle,22:00,Medium,3
+Vile Parle,23:00,Low,2
+Andheri,00:00,Low,2
+Andheri,01:00,Low,1
+Andheri,02:00,Low,1
+Andheri,03:00,Low,1
+Andheri,04:00,Medium,3
+Andheri,05:00,Medium,4
+Andheri,06:00,High,3
+Andheri,07:00,High,2
+Andheri,08:00,High,2
+Andheri,09:00,High,2
+Andheri,10:00,High,2
+Andheri,11:00,High,3
+Andheri,12:00,Medium,4
+Andheri,13:00,Medium,4
+Andheri,14:00,Medium,4
+Andheri,15:00,Medium,4
+Andheri,16:00,High,3
+Andheri,17:00,High,2
+Andheri,18:00,High,2
+Andheri,19:00,High,2
+Andheri,20:00,High,2
+Andheri,21:00,High,3
+Andheri,22:00,Medium,3
+Andheri,23:00,Low,2
+Jogeshwari,00:00,Low,2
+Jogeshwari,01:00,Low,1
+Jogeshwari,02:00,Low,1
+Jogeshwari,03:00,Low,1
+Jogeshwari,04:00,Low,2
+Jogeshwari,05:00,Medium,3
+Jogeshwari,06:00,Medium,4
+Jogeshwari,07:00,High,3
+Jogeshwari,08:00,High,2
+Jogeshwari,09:00,High,2
+Jogeshwari,10:00,Medium,3
+Jogeshwari,11:00,Medium,4
+Jogeshwari,12:00,Medium,4
+Jogeshwari,13:00,Medium,4
+Jogeshwari,14:00,Medium,4
+Jogeshwari,15:00,Medium,4
+Jogeshwari,16:00,High,3
+Jogeshwari,17:00,High,2
+Jogeshwari,18:00,High,2
+Jogeshwari,19:00,High,2
+Jogeshwari,20:00,Medium,3
+Jogeshwari,21:00,Medium,3
+Jogeshwari,22:00,Medium,3
+Jogeshwari,23:00,Low,2
+Goregaon,00:00,Low,2
+Goregaon,01:00,Low,1
+Goregaon,02:00,Low,1
+Goregaon,03:00,Low,1
+Goregaon,04:00,Low,2
+Goregaon,05:00,Medium,3
+Goregaon,06:00,Medium,4
+Goregaon,07:00,High,3
+Goregaon,08:00,High,2
+Goregaon,09:00,High,2
+Goregaon,10:00,Medium,3
+Goregaon,11:00,Medium,4
+Goregaon,12:00,Medium,4
+Goregaon,13:00,Medium,4
+Goregaon,14:00,Medium,4
+Goregaon,15:00,Medium,4
+Goregaon,16:00,High,3
+Goregaon,17:00,High,2
+Goregaon,18:00,High,2
+Goregaon,19:00,High,2
+Goregaon,20:00,Medium,3
+Goregaon,21:00,Medium,3
+Goregaon,22:00,Medium,3
+Goregaon,23:00,Low,2
+Malad,00:00,Low,2
+Malad,01:00,Low,1
+Malad,02:00,Low,1
+Malad,03:00,Low,1
+Malad,04:00,Low,2
+Malad,05:00,Medium,3
+Malad,06:00,Medium,4
+Malad,07:00,High,3
+Malad,08:00,High,2
+Malad,09:00,High,2
+Malad,10:00,Medium,3
+Malad,11:00,Medium,4
+Malad,12:00,Medium,4
+Malad,13:00,Medium,4
+Malad,14:00,Medium,4
+Malad,15:00,Medium,4
+Malad,16:00,High,3
+Malad,17:00,High,2
+Malad,18:00,High,2
+Malad,19:00,High,2
+Malad,20:00,Medium,3
+Malad,21:00,Medium,3
+Malad,22:00,Medium,3
+Malad,23:00,Low,2
+Kandivali,00:00,Low,2
+Kandivali,01:00,Low,1
+Kandivali,02:00,Low,1
+Kandivali,03:00,Low,1
+Kandivali,04:00,Low,2
+Kandivali,05:00,Medium,3
+Kandivali,06:00,Medium,4
+Kandivali,07:00,High,3
+Kandivali,08:00,High,2
+Kandivali,09:00,High,2
+Kandivali,10:00,Medium,3
+Kandivali,11:00,Medium,4
+Kandivali,12:00,Medium,4
+Kandivali,13:00,Medium,4
+Kandivali,14:00,Medium,4
+Kandivali,15:00,Medium,4
+Kandivali,16:00,High,3
+Kandivali,17:00,High,2
+Kandivali,18:00,High,2
+Kandivali,19:00,High,2
+Kandivali,20:00,Medium,3
+Kandivali,21:00,Medium,3
+Kandivali,22:00,Medium,3
+Kandivali,23:00,Low,2
+Borivali,00:00,Low,2
+Borivali,01:00,Low,1
+Borivali,02:00,Low,1
+Borivali,03:00,Low,1
+Borivali,04:00,Medium,3
+Borivali,05:00,Medium,4
+Borivali,06:00,High,3
+Borivali,07:00,High,2
+Borivali,08:00,High,2
+Borivali,09:00,High,2
+Borivali,10:00,High,3
+Borivali,11:00,Medium,4
+Borivali,12:00,Medium,4
+Borivali,13:00,Medium,4
+Borivali,14:00,Medium,4
+Borivali,15:00,Medium,4
+Borivali,16:00,High,3
+Borivali,17:00,High,2
+Borivali,18:00,High,2
+Borivali,19:00,High,2
+Borivali,20:00,High,2
+Borivali,21:00,Medium,3
+Borivali,22:00,Medium,3
+Borivali,23:00,Low,2
+Dahisar,00:00,Low,2
+Dahisar,01:00,Low,1
+Dahisar,02:00,Low,1
+Dahisar,03:00,Low,1
+Dahisar,04:00,Low,2
+Dahisar,05:00,Medium,3
+Dahisar,06:00,Medium,4
+Dahisar,07:00,High,3
+Dahisar,08:00,High,2
+Dahisar,09:00,High,2
+Dahisar,10:00,Medium,3
+Dahisar,11:00,Medium,4
+Dahisar,12:00,Medium,4
+Dahisar,13:00,Medium,4
+Dahisar,14:00,Medium,4
+Dahisar,15:00,Medium,4
+Dahisar,16:00,High,3
+Dahisar,17:00,High,2
+Dahisar,18:00,High,2
+Dahisar,19:00,High,2
+Dahisar,20:00,Medium,3
+Dahisar,21:00,Medium,3
+Dahisar,22:00,Medium,3
+Dahisar,23:00,Low,2
+Mira Rd,00:00,Low,2
+Mira Rd,01:00,Low,1
+Mira Rd,02:00,Low,1
+Mira Rd,03:00,Low,1
+Mira Rd,04:00,Low,2
+Mira Rd,05:00,Medium,3
+Mira Rd,06:00,High,3
+Mira Rd,07:00,High,2
+Mira Rd,08:00,High,2
+Mira Rd,09:00,High,2
+Mira Rd,10:00,Medium,3
+Mira Rd,11:00,Medium,4
+Mira Rd,12:00,Medium,4
+Mira Rd,13:00,Medium,4
+Mira Rd,14:00,Medium,4
+Mira Rd,15:00,Medium,4
+Mira Rd,16:00,High,3
+Mira Rd,17:00,High,2
+Mira Rd,18:00,High,2
+Mira Rd,19:00,High,2
+Mira Rd,20:00,High,3
+Mira Rd,21:00,Medium,3
+Mira Rd,22:00,Medium,3
+Mira Rd,23:00,Low,2
+Bhayander,00:00,Low,2
+Bhayander,01:00,Low,1
+Bhayander,02:00,Low,1
+Bhayander,03:00,Low,1
+Bhayander,04:00,Low,2
+Bhayander,05:00,Medium,3
+Bhayander,06:00,High,3
+Bhayander,07:00,High,2
+Bhayander,08:00,High,2
+Bhayander,09:00,High,2
+Bhayander,10:00,Medium,3
+Bhayander,11:00,Medium,4
+Bhayander,12:00,Medium,4
+Bhayander,13:00,Medium,4
+Bhayander,14:00,Medium,4
+Bhayander,15:00,Medium,4
+Bhayander,16:00,High,3
+Bhayander,17:00,High,2
+Bhayander,18:00,High,2
+Bhayander,19:00,High,2
+Bhayander,20:00,High,3
+Bhayander,21:00,Medium,3
+Bhayander,22:00,Medium,3
+Bhayander,23:00,Low,2
+Naigaon,00:00,Low,1
+Naigaon,01:00,Low,1
+Naigaon,02:00,Low,1
+Naigaon,03:00,Low,1
+Naigaon,04:00,Low,2
+Naigaon,05:00,Medium,3
+Naigaon,06:00,High,3
+Naigaon,07:00,High,2
+Naigaon,08:00,High,2
+Naigaon,09:00,Medium,3
+Naigaon,10:00,Medium,4
+Naigaon,11:00,Medium,4
+Naigaon,12:00,Medium,4
+Naigaon,13:00,Medium,4
+Naigaon,14:00,Medium,4
+Naigaon,15:00,Medium,4
+Naigaon,16:00,Medium,4
+Naigaon,17:00,High,2
+Naigaon,18:00,High,2
+Naigaon,19:00,High,2
+Naigaon,20:00,High,3
+Naigaon,21:00,Medium,3
+Naigaon,22:00,Medium,2
+Naigaon,23:00,Low,1
+Vasai Rd,00:00,Low,2
+Vasai Rd,01:00,Low,1
+Vasai Rd,02:00,Low,1
+Vasai Rd,03:00,Low,1
+Vasai Rd,04:00,Low,2
+Vasai Rd,05:00,Medium,3
+Vasai Rd,06:00,High,3
+Vasai Rd,07:00,High,2
+Vasai Rd,08:00,High,2
+Vasai Rd,09:00,High,2
+Vasai Rd,10:00,Medium,3
+Vasai Rd,11:00,Medium,4
+Vasai Rd,12:00,Medium,4
+Vasai Rd,13:00,Medium,4
+Vasai Rd,14:00,Medium,4
+Vasai Rd,15:00,Medium,4
+Vasai Rd,16:00,High,3
+Vasai Rd,17:00,High,2
+Vasai Rd,18:00,High,2
+Vasai Rd,19:00,High,2
+Vasai Rd,20:00,High,3
+Vasai Rd,21:00,Medium,3
+Vasai Rd,22:00,Medium,3
+Vasai Rd,23:00,Low,2
+Nallasopara,00:00,Low,1
+Nallasopara,01:00,Low,1
+Nallasopara,02:00,Low,1
+Nallasopara,03:00,Low,1
+Nallasopara,04:00,Low,2
+Nallasopara,05:00,Medium,3
+Nallasopara,06:00,High,3
+Nallasopara,07:00,High,2
+Nallasopara,08:00,High,2
+Nallasopara,09:00,Medium,3
+Nallasopara,10:00,Medium,4
+Nallasopara,11:00,Medium,4
+Nallasopara,12:00,Medium,4
+Nallasopara,13:00,Medium,4
+Nallasopara,14:00,Medium,4
+Nallasopara,15:00,Medium,4
+Nallasopara,16:00,Medium,4
+Nallasopara,17:00,High,2
+Nallasopara,18:00,High,2
+Nallasopara,19:00,High,2
+Nallasopara,20:00,High,3
+Nallasopara,21:00,Medium,3
+Nallasopara,22:00,Medium,2
+Nallasopara,23:00,Low,1
+Virar,00:00,Low,2
+Virar,01:00,Low,1
+Virar,02:00,Low,1
+Virar,03:00,Low,1
+Virar,04:00,Low,2
+Virar,05:00,Medium,3
+Virar,06:00,High,3
+Virar,07:00,High,3
+Virar,08:00,High,3
+Virar,09:00,Medium,4
+Virar,10:00,Medium,4
+Virar,11:00,Medium,4
+Virar,12:00,Medium,4
+Virar,13:00,Medium,4
+Virar,14:00,Medium,4
+Virar,15:00,Medium,4
+Virar,16:00,Medium,4
+Virar,17:00,High,3
+Virar,18:00,High,3
+Virar,19:00,High,3
+Virar,20:00,High,3
+Virar,21:00,Medium,3
+Virar,22:00,Medium,3
+Virar,23:00,Low,2
+Vaitarna,00:00,Low,1
+Vaitarna,01:00,Low,1
+Vaitarna,02:00,Low,1
+Vaitarna,03:00,Low,1
+Vaitarna,04:00,Low,1
+Vaitarna,05:00,Low,2
+Vaitarna,06:00,Medium,2
+Vaitarna,07:00,Medium,2
+Vaitarna,08:00,Medium,2
+Vaitarna,09:00,Low,3
+Vaitarna,10:00,Low,3
+Vaitarna,11:00,Low,3
+Vaitarna,12:00,Low,3
+Vaitarna,13:00,Low,3
+Vaitarna,14:00,Low,3
+Vaitarna,15:00,Low,3
+Vaitarna,16:00,Medium,2
+Vaitarna,17:00,Medium,2
+Vaitarna,18:00,Medium,2
+Vaitarna,19:00,Medium,2
+Vaitarna,20:00,Low,2
+Vaitarna,21:00,Low,1
+Vaitarna,22:00,Low,1
+Vaitarna,23:00,Low,1
+Saphale,00:00,Low,1
+Saphale,01:00,Low,1
+Saphale,02:00,Low,1
+Saphale,03:00,Low,1
+Saphale,04:00,Low,1
+Saphale,05:00,Low,2
+Saphale,06:00,Medium,2
+Saphale,07:00,Medium,2
+Saphale,08:00,Medium,2
+Saphale,09:00,Low,3
+Saphale,10:00,Low,3
+Saphale,11:00,Low,3
+Saphale,12:00,Low,3
+Saphale,13:00,Low,3
+Saphale,14:00,Low,3
+Saphale,15:00,Low,3
+Saphale,16:00,Medium,2
+Saphale,17:00,Medium,2
+Saphale,18:00,Medium,2
+Saphale,19:00,Medium,2
+Saphale,20:00,Low,2
+Saphale,21:00,Low,1
+Saphale,22:00,Low,1
+Saphale,23:00,Low,1
+Kelva Rd,00:00,Low,1
+Kelva Rd,01:00,Low,1
+Kelva Rd,02:00,Low,1
+Kelva Rd,03:00,Low,1
+Kelva Rd,04:00,Low,1
+Kelva Rd,05:00,Low,2
+Kelva Rd,06:00,Medium,2
+Kelva Rd,07:00,Medium,2
+Kelva Rd,08:00,Medium,2
+Kelva Rd,09:00,Low,3
+Kelva Rd,10:00,Low,3
+Kelva Rd,11:00,Low,3
+Kelva Rd,12:00,Low,3
+Kelva Rd,13:00,Low,3
+Kelva Rd,14:00,Low,3
+Kelva Rd,15:00,Low,3
+Kelva Rd,16:00,Medium,2
+Kelva Rd,17:00,Medium,2
+Kelva Rd,18:00,Medium,2
+Kelva Rd,19:00,Medium,2
+Kelva Rd,20:00,Low,2
+Kelva Rd,21:00,Low,1
+Kelva Rd,22:00,Low,1
+Kelva Rd,23:00,Low,1
+Palghar,00:00,Low,1
+Palghar,01:00,Low,1
+Palghar,02:00,Low,1
+Palghar,03:00,Low,1
+Palghar,04:00,Low,2
+Palghar,05:00,Medium,3
+Palghar,06:00,Medium,3
+Palghar,07:00,High,3
+Palghar,08:00,High,3
+Palghar,09:00,Medium,4
+Palghar,10:00,Medium,4
+Palghar,11:00,Medium,4
+Palghar,12:00,Medium,4
+Palghar,13:00,Medium,4
+Palghar,14:00,Medium,4
+Palghar,15:00,Medium,4
+Palghar,16:00,Medium,3
+Palghar,17:00,High,3
+Palghar,18:00,High,3
+Palghar,19:00,High,3
+Palghar,20:00,Medium,3
+Palghar,21:00,Medium,2
+Palghar,22:00,Low,2
+Palghar,23:00,Low,1
+Boisar,00:00,Low,1
+Boisar,01:00,Low,1
+Boisar,02:00,Low,1
+Boisar,03:00,Low,1
+Boisar,04:00,Low,2
+Boisar,05:00,Medium,3
+Boisar,06:00,Medium,3
+Boisar,07:00,High,3
+Boisar,08:00,High,3
+Boisar,09:00,Medium,4
+Boisar,10:00,Medium,4
+Boisar,11:00,Medium,4
+Boisar,12:00,Medium,4
+Boisar,13:00,Medium,4
+Boisar,14:00,Medium,4
+Boisar,15:00,Medium,4
+Boisar,16:00,Medium,3
+Boisar,17:00,High,3
+Boisar,18:00,High,3
+Boisar,19:00,High,3
+Boisar,20:00,Medium,3
+Boisar,21:00,Medium,2
+Boisar,22:00,Low,2
+Boisar,23:00,Low,1
+Dahanu Rd,00:00,Low,1
+Dahanu Rd,01:00,Low,1
+Dahanu Rd,02:00,Low,1
+Dahanu Rd,03:00,Low,1
+Dahanu Rd,04:00,Low,2
+Dahanu Rd,05:00,Medium,3
+Dahanu Rd,06:00,Medium,3
+Dahanu Rd,07:00,High,3
+Dahanu Rd,08:00,High,3
+Dahanu Rd,09:00,Medium,4
+Dahanu Rd,10:00,Medium,4
+Dahanu Rd,11:00,Low,4
+Dahanu Rd,12:00,Low,4
+Dahanu Rd,13:00,Low,4
+Dahanu Rd,14:00,Low,4
+Dahanu Rd,15:00,Low,4
+Dahanu Rd,16:00,Medium,3
+Dahanu Rd,17:00,Medium,3
+Dahanu Rd,18:00,High,3
+Dahanu Rd,19:00,High,3
+Dahanu Rd,20:00,Medium,3
+Dahanu Rd,21:00,Medium,3
+Dahanu Rd,22:00,Low,2
+Dahanu Rd,23:00,Low,1
+Mumbai C.S.T.,00:00,Low,2
+Mumbai C.S.T.,01:00,Low,1
+Mumbai C.S.T.,02:00,Low,1
+Mumbai C.S.T.,03:00,Low,1
+Mumbai C.S.T.,04:00,Low,2
+Mumbai C.S.T.,05:00,Medium,4
+Mumbai C.S.T.,06:00,Medium,4
+Mumbai C.S.T.,07:00,High,3
+Mumbai C.S.T.,08:00,High,3
+Mumbai C.S.T.,09:00,High,3
+Mumbai C.S.T.,10:00,High,3
+Mumbai C.S.T.,11:00,Medium,4
+Mumbai C.S.T.,12:00,Medium,5
+Mumbai C.S.T.,13:00,Medium,5
+Mumbai C.S.T.,14:00,Medium,5
+Mumbai C.S.T.,15:00,Medium,4
+Mumbai C.S.T.,16:00,Medium,4
+Mumbai C.S.T.,17:00,High,3
+Mumbai C.S.T.,18:00,High,3
+Mumbai C.S.T.,19:00,High,3
+Mumbai C.S.T.,20:00,High,3
+Mumbai C.S.T.,21:00,Medium,4
+Mumbai C.S.T.,22:00,Medium,3
+Mumbai C.S.T.,23:00,Low,2
+Masjid,00:00,Low,2
+Masjid,01:00,Low,1
+Masjid,02:00,Low,1
+Masjid,03:00,Low,1
+Masjid,04:00,Low,2
+Masjid,05:00,Medium,3
+Masjid,06:00,Medium,4
+Masjid,07:00,High,3
+Masjid,08:00,High,2
+Masjid,09:00,High,2
+Masjid,10:00,Medium,3
+Masjid,11:00,Medium,4
+Masjid,12:00,Medium,4
+Masjid,13:00,Medium,4
+Masjid,14:00,Medium,4
+Masjid,15:00,Medium,4
+Masjid,16:00,High,3
+Masjid,17:00,High,2
+Masjid,18:00,High,2
+Masjid,19:00,High,2
+Masjid,20:00,High,3
+Masjid,21:00,Medium,3
+Masjid,22:00,Medium,2
+Masjid,23:00,Low,2
+Sandhurst Rd,00:00,Low,2
+Sandhurst Rd,01:00,Low,1
+Sandhurst Rd,02:00,Low,1
+Sandhurst Rd,03:00,Low,1
+Sandhurst Rd,04:00,Low,2
+Sandhurst Rd,05:00,Medium,3
+Sandhurst Rd,06:00,Medium,4
+Sandhurst Rd,07:00,High,3
+Sandhurst Rd,08:00,High,2
+Sandhurst Rd,09:00,High,2
+Sandhurst Rd,10:00,Medium,3
+Sandhurst Rd,11:00,Medium,4
+Sandhurst Rd,12:00,Medium,4
+Sandhurst Rd,13:00,Medium,4
+Sandhurst Rd,14:00,Medium,4
+Sandhurst Rd,15:00,Medium,4
+Sandhurst Rd,16:00,High,3
+Sandhurst Rd,17:00,High,2
+Sandhurst Rd,18:00,High,2
+Sandhurst Rd,19:00,High,2
+Sandhurst Rd,20:00,Medium,3
+Sandhurst Rd,21:00,Medium,3
+Sandhurst Rd,22:00,Medium,2
+Sandhurst Rd,23:00,Low,2
+Byculla,00:00,Low,2
+Byculla,01:00,Low,1
+Byculla,02:00,Low,1
+Byculla,03:00,Low,1
+Byculla,04:00,Low,2
+Byculla,05:00,Medium,3
+Byculla,06:00,Medium,4
+Byculla,07:00,High,3
+Byculla,08:00,High,2
+Byculla,09:00,High,2
+Byculla,10:00,Medium,3
+Byculla,11:00,Medium,4
+Byculla,12:00,Medium,4
+Byculla,13:00,Medium,4
+Byculla,14:00,Medium,4
+Byculla,15:00,Medium,4
+Byculla,16:00,High,3
+Byculla,17:00,High,2
+Byculla,18:00,High,2
+Byculla,19:00,High,2
+Byculla,20:00,Medium,3
+Byculla,21:00,Medium,3
+Byculla,22:00,Medium,2
+Byculla,23:00,Low,2
+Chinchpokli,00:00,Low,2
+Chinchpokli,01:00,Low,1
+Chinchpokli,02:00,Low,1
+Chinchpokli,03:00,Low,1
+Chinchpokli,04:00,Low,2
+Chinchpokli,05:00,Medium,3
+Chinchpokli,06:00,Medium,4
+Chinchpokli,07:00,High,3
+Chinchpokli,08:00,High,2
+Chinchpokli,09:00,High,2
+Chinchpokli,10:00,Medium,3
+Chinchpokli,11:00,Medium,4
+Chinchpokli,12:00,Medium,4
+Chinchpokli,13:00,Medium,4
+Chinchpokli,14:00,Medium,4
+Chinchpokli,15:00,Medium,4
+Chinchpokli,16:00,High,3
+Chinchpokli,17:00,High,2
+Chinchpokli,18:00,High,2
+Chinchpokli,19:00,High,2
+Chinchpokli,20:00,Medium,3
+Chinchpokli,21:00,Medium,3
+Chinchpokli,22:00,Medium,2
+Chinchpokli,23:00,Low,2
+Currey Rd,00:00,Low,2
+Currey Rd,01:00,Low,1
+Currey Rd,02:00,Low,1
+Currey Rd,03:00,Low,1
+Currey Rd,04:00,Low,2
+Currey Rd,05:00,Medium,3
+Currey Rd,06:00,Medium,4
+Currey Rd,07:00,High,3
+Currey Rd,08:00,High,2
+Currey Rd,09:00,High,2
+Currey Rd,10:00,Medium,3
+Currey Rd,11:00,Medium,4
+Currey Rd,12:00,Medium,4
+Currey Rd,13:00,Medium,4
+Currey Rd,14:00,Medium,4
+Currey Rd,15:00,Medium,4
+Currey Rd,16:00,High,3
+Currey Rd,17:00,High,2
+Currey Rd,18:00,High,2
+Currey Rd,19:00,High,2
+Currey Rd,20:00,Medium,3
+Currey Rd,21:00,Medium,3
+Currey Rd,22:00,Medium,2
+Currey Rd,23:00,Low,2
+Parel,00:00,Low,2
+Parel,01:00,Low,1
+Parel,02:00,Low,1
+Parel,03:00,Low,1
+Parel,04:00,Low,2
+Parel,05:00,Medium,3
+Parel,06:00,Medium,4
+Parel,07:00,High,3
+Parel,08:00,High,2
+Parel,09:00,High,2
+Parel,10:00,Medium,3
+Parel,11:00,Medium,4
+Parel,12:00,Medium,4
+Parel,13:00,Medium,4
+Parel,14:00,Medium,4
+Parel,15:00,Medium,4
+Parel,16:00,High,3
+Parel,17:00,High,2
+Parel,18:00,High,2
+Parel,19:00,High,2
+Parel,20:00,Medium,3
+Parel,21:00,Medium,3
+Parel,22:00,Medium,2
+Parel,23:00,Low,2
+Matunga,00:00,Low,2
+Matunga,01:00,Low,1
+Matunga,02:00,Low,1
+Matunga,03:00,Low,1
+Matunga,04:00,Low,2
+Matunga,05:00,Medium,3
+Matunga,06:00,Medium,4
+Matunga,07:00,High,3
+Matunga,08:00,High,3
+Matunga,09:00,High,3
+Matunga,10:00,Medium,4
+Matunga,11:00,Medium,4
+Matunga,12:00,Medium,4
+Matunga,13:00,Medium,4
+Matunga,14:00,Medium,4
+Matunga,15:00,Medium,4
+Matunga,16:00,High,3
+Matunga,17:00,High,3
+Matunga,18:00,High,3
+Matunga,19:00,High,3
+Matunga,20:00,Medium,4
+Matunga,21:00,Medium,3
+Matunga,22:00,Medium,3
+Matunga,23:00,Low,2
+Sion,00:00,Low,2
+Sion,01:00,Low,1
+Sion,02:00,Low,1
+Sion,03:00,Low,1
+Sion,04:00,Low,2
+Sion,05:00,Medium,3
+Sion,06:00,Medium,4
+Sion,07:00,High,3
+Sion,08:00,High,2
+Sion,09:00,High,2
+Sion,10:00,Medium,3
+Sion,11:00,Medium,4
+Sion,12:00,Medium,4
+Sion,13:00,Medium,4
+Sion,14:00,Medium,4
+Sion,15:00,Medium,4
+Sion,16:00,High,3
+Sion,17:00,High,2
+Sion,18:00,High,2
+Sion,19:00,High,2
+Sion,20:00,Medium,3
+Sion,21:00,Medium,3
+Sion,22:00,Medium,2
+Sion,23:00,Low,2
+Kurla,00:00,Low,2
+Kurla,01:00,Low,1
+Kurla,02:00,Low,1
+Kurla,03:00,Low,1
+Kurla,04:00,Medium,3
+Kurla,05:00,Medium,4
+Kurla,06:00,High,3
+Kurla,07:00,High,2
+Kurla,08:00,High,2
+Kurla,09:00,High,2
+Kurla,10:00,High,2
+Kurla,11:00,High,3
+Kurla,12:00,Medium,4
+Kurla,13:00,Medium,4
+Kurla,14:00,Medium,4
+Kurla,15:00,Medium,4
+Kurla,16:00,High,3
+Kurla,17:00,High,2
+Kurla,18:00,High,2
+Kurla,19:00,High,2
+Kurla,20:00,High,2
+Kurla,21:00,High,3
+Kurla,22:00,Medium,3
+Kurla,23:00,Low,2
+Vidyavihar,00:00,Low,2
+Vidyavihar,01:00,Low,1
+Vidyavihar,02:00,Low,1
+Vidyavihar,03:00,Low,1
+Vidyavihar,04:00,Low,2
+Vidyavihar,05:00,Medium,3
+Vidyavihar,06:00,Medium,4
+Vidyavihar,07:00,High,3
+Vidyavihar,08:00,High,2
+Vidyavihar,09:00,High,2
+Vidyavihar,10:00,Medium,3
+Vidyavihar,11:00,Medium,4
+Vidyavihar,12:00,Medium,4
+Vidyavihar,13:00,Medium,4
+Vidyavihar,14:00,Medium,4
+Vidyavihar,15:00,Medium,4
+Vidyavihar,16:00,High,3
+Vidyavihar,17:00,High,2
+Vidyavihar,18:00,High,2
+Vidyavihar,19:00,High,2
+Vidyavihar,20:00,Medium,3
+Vidyavihar,21:00,Medium,3
+Vidyavihar,22:00,Medium,2
+Vidyavihar,23:00,Low,2
+Ghatkopar,00:00,Low,2
+Ghatkopar,01:00,Low,1
+Ghatkopar,02:00,Low,1
+Ghatkopar,03:00,Low,1
+Ghatkopar,04:00,Medium,3
+Ghatkopar,05:00,Medium,4
+Ghatkopar,06:00,High,3
+Ghatkopar,07:00,High,2
+Ghatkopar,08:00,High,2
+Ghatkopar,09:00,High,2
+Ghatkopar,10:00,High,2
+Ghatkopar,11:00,High,3
+Ghatkopar,12:00,Medium,4
+Ghatkopar,13:00,Medium,4
+Ghatkopar,14:00,Medium,4
+Ghatkopar,15:00,Medium,4
+Ghatkopar,16:00,High,3
+Ghatkopar,17:00,High,2
+Ghatkopar,18:00,High,2
+Ghatkopar,19:00,High,2
+Ghatkopar,20:00,High,2
+Ghatkopar,21:00,High,3
+Ghatkopar,22:00,Medium,3
+Ghatkopar,23:00,Low,2
+Vikhroli,00:00,Low,2
+Vikhroli,01:00,Low,1
+Vikhroli,02:00,Low,1
+Vikhroli,03:00,Low,1
+Vikhroli,04:00,Low,2
+Vikhroli,05:00,Medium,3
+Vikhroli,06:00,Medium,4
+Vikhroli,07:00,High,3
+Vikhroli,08:00,High,2
+Vikhroli,09:00,High,2
+Vikhroli,10:00,Medium,3
+Vikhroli,11:00,Medium,4
+Vikhroli,12:00,Medium,4
+Vikhroli,13:00,Medium,4
+Vikhroli,14:00,Medium,4
+Vikhroli,15:00,Medium,4
+Vikhroli,16:00,High,3
+Vikhroli,17:00,High,2
+Vikhroli,18:00,High,2
+Vikhroli,19:00,High,2
+Vikhroli,20:00,Medium,3
+Vikhroli,21:00,Medium,3
+Vikhroli,22:00,Medium,2
+Vikhroli,23:00,Low,2
+Kanjurmarg,00:00,Low,2
+Kanjurmarg,01:00,Low,1
+Kanjurmarg,02:00,Low,1
+Kanjurmarg,03:00,Low,1
+Kanjurmarg,04:00,Low,2
+Kanjurmarg,05:00,Medium,3
+Kanjurmarg,06:00,Medium,4
+Kanjurmarg,07:00,High,3
+Kanjurmarg,08:00,High,2
+Kanjurmarg,09:00,High,2
+Kanjurmarg,10:00,Medium,3
+Kanjurmarg,11:00,Medium,4
+Kanjurmarg,12:00,Medium,4
+Kanjurmarg,13:00,Medium,4
+Kanjurmarg,14:00,Medium,4
+Kanjurmarg,15:00,Medium,4
+Kanjurmarg,16:00,High,3
+Kanjurmarg,17:00,High,2
+Kanjurmarg,18:00,High,2
+Kanjurmarg,19:00,High,2
+Kanjurmarg,20:00,Medium,3
+Kanjurmarg,21:00,Medium,3
+Kanjurmarg,22:00,Medium,2
+Kanjurmarg,23:00,Low,2
+Bhandup,00:00,Low,2
+Bhandup,01:00,Low,1
+Bhandup,02:00,Low,1
+Bhandup,03:00,Low,1
+Bhandup,04:00,Low,2
+Bhandup,05:00,Medium,3
+Bhandup,06:00,Medium,4
+Bhandup,07:00,High,3
+Bhandup,08:00,High,2
+Bhandup,09:00,High,2
+Bhandup,10:00,Medium,3
+Bhandup,11:00,Medium,4
+Bhandup,12:00,Medium,4
+Bhandup,13:00,Medium,4
+Bhandup,14:00,Medium,4
+Bhandup,15:00,Medium,4
+Bhandup,16:00,High,3
+Bhandup,17:00,High,2
+Bhandup,18:00,High,2
+Bhandup,19:00,High,2
+Bhandup,20:00,Medium,3
+Bhandup,21:00,Medium,3
+Bhandup,22:00,Medium,2
+Bhandup,23:00,Low,2
+Nahur,00:00,Low,2
+Nahur,01:00,Low,1
+Nahur,02:00,Low,1
+Nahur,03:00,Low,1
+Nahur,04:00,Low,2
+Nahur,05:00,Medium,3
+Nahur,06:00,Medium,4
+Nahur,07:00,High,3
+Nahur,08:00,High,2
+Nahur,09:00,High,2
+Nahur,10:00,Medium,3
+Nahur,11:00,Medium,4
+Nahur,12:00,Medium,4
+Nahur,13:00,Medium,4
+Nahur,14:00,Medium,4
+Nahur,15:00,Medium,4
+Nahur,16:00,High,3
+Nahur,17:00,High,2
+Nahur,18:00,High,2
+Nahur,19:00,High,2
+Nahur,20:00,Medium,3
+Nahur,21:00,Medium,3
+Nahur,22:00,Medium,2
+Nahur,23:00,Low,2
+Mulund,00:00,Low,2
+Mulund,01:00,Low,1
+Mulund,02:00,Low,1
+Mulund,03:00,Low,1
+Mulund,04:00,Low,2
+Mulund,05:00,Medium,3
+Mulund,06:00,High,3
+Mulund,07:00,High,2
+Mulund,08:00,High,2
+Mulund,09:00,High,2
+Mulund,10:00,Medium,3
+Mulund,11:00,Medium,4
+Mulund,12:00,Medium,4
+Mulund,13:00,Medium,4
+Mulund,14:00,Medium,4
+Mulund,15:00,Medium,4
+Mulund,16:00,High,3
+Mulund,17:00,High,2
+Mulund,18:00,High,2
+Mulund,19:00,High,2
+Mulund,20:00,High,3
+Mulund,21:00,Medium,3
+Mulund,22:00,Medium,3
+Mulund,23:00,Low,2
+Thane,00:00,Low,2
+Thane,01:00,Low,1
+Thane,02:00,Low,1
+Thane,03:00,Low,1
+Thane,04:00,Medium,3
+Thane,05:00,Medium,4
+Thane,06:00,High,3
+Thane,07:00,High,2
+Thane,08:00,High,2
+Thane,09:00,High,2
+Thane,10:00,High,2
+Thane,11:00,High,3
+Thane,12:00,Medium,4
+Thane,13:00,Medium,4
+Thane,14:00,Medium,4
+Thane,15:00,Medium,4
+Thane,16:00,High,3
+Thane,17:00,High,2
+Thane,18:00,High,2
+Thane,19:00,High,2
+Thane,20:00,High,2
+Thane,21:00,High,3
+Thane,22:00,Medium,3
+Thane,23:00,Low,2
+Kalva,00:00,Low,1
+Kalva,01:00,Low,1
+Kalva,02:00,Low,1
+Kalva,03:00,Low,1
+Kalva,04:00,Low,2
+Kalva,05:00,Medium,3
+Kalva,06:00,High,3
+Kalva,07:00,High,2
+Kalva,08:00,High,2
+Kalva,09:00,Medium,3
+Kalva,10:00,Medium,3
+Kalva,11:00,Medium,4
+Kalva,12:00,Medium,4
+Kalva,13:00,Medium,4
+Kalva,14:00,Medium,4
+Kalva,15:00,Medium,4
+Kalva,16:00,High,3
+Kalva,17:00,High,2
+Kalva,18:00,High,2
+Kalva,19:00,High,2
+Kalva,20:00,Medium,3
+Kalva,21:00,Medium,2
+Kalva,22:00,Low,2
+Kalva,23:00,Low,1
+Mumbra,00:00,Low,1
+Mumbra,01:00,Low,1
+Mumbra,02:00,Low,1
+Mumbra,03:00,Low,1
+Mumbra,04:00,Low,2
+Mumbra,05:00,Medium,3
+Mumbra,06:00,High,3
+Mumbra,07:00,High,2
+Mumbra,08:00,High,2
+Mumbra,09:00,Medium,3
+Mumbra,10:00,Medium,3
+Mumbra,11:00,Medium,4
+Mumbra,12:00,Medium,4
+Mumbra,13:00,Medium,4
+Mumbra,14:00,Medium,4
+Mumbra,15:00,Medium,4
+Mumbra,16:00,High,3
+Mumbra,17:00,High,2
+Mumbra,18:00,High,2
+Mumbra,19:00,High,2
+Mumbra,20:00,Medium,3
+Mumbra,21:00,Medium,2
+Mumbra,22:00,Low,2
+Mumbra,23:00,Low,1
+Diva,00:00,Low,1
+Diva,01:00,Low,1
+Diva,02:00,Low,1
+Diva,03:00,Low,1
+Diva,04:00,Low,2
+Diva,05:00,Medium,3
+Diva,06:00,High,3
+Diva,07:00,High,2
+Diva,08:00,High,2
+Diva,09:00,Medium,3
+Diva,10:00,Medium,3
+Diva,11:00,Medium,4
+Diva,12:00,Medium,4
+Diva,13:00,Medium,4
+Diva,14:00,Medium,4
+Diva,15:00,Medium,4
+Diva,16:00,High,3
+Diva,17:00,High,2
+Diva,18:00,High,2
+Diva,19:00,High,2
+Diva,20:00,Medium,3
+Diva,21:00,Medium,2
+Diva,22:00,Low,2
+Diva,23:00,Low,1
+Kopar,00:00,Low,1
+Kopar,01:00,Low,1
+Kopar,02:00,Low,1
+Kopar,03:00,Low,1
+Kopar,04:00,Low,2
+Kopar,05:00,Medium,3
+Kopar,06:00,High,3
+Kopar,07:00,High,2
+Kopar,08:00,High,2
+Kopar,09:00,Medium,3
+Kopar,10:00,Medium,3
+Kopar,11:00,Medium,4
+Kopar,12:00,Medium,4
+Kopar,13:00,Medium,4
+Kopar,14:00,Medium,4
+Kopar,15:00,Medium,4
+Kopar,16:00,High,3
+Kopar,17:00,High,2
+Kopar,18:00,High,2
+Kopar,19:00,High,2
+Kopar,20:00,Medium,3
+Kopar,21:00,Medium,2
+Kopar,22:00,Low,2
+Kopar,23:00,Low,1
+Dombivli,00:00,Low,2
+Dombivli,01:00,Low,1
+Dombivli,02:00,Low,1
+Dombivli,03:00,Low,1
+Dombivli,04:00,Medium,3
+Dombivli,05:00,High,3
+Dombivli,06:00,High,2
+Dombivli,07:00,High,2
+Dombivli,08:00,High,2
+Dombivli,09:00,High,2
+Dombivli,10:00,Medium,3
+Dombivli,11:00,Medium,4
+Dombivli,12:00,Medium,4
+Dombivli,13:00,Medium,4
+Dombivli,14:00,Medium,4
+Dombivli,15:00,Medium,4
+Dombivli,16:00,High,3
+Dombivli,17:00,High,2
+Dombivli,18:00,High,2
+Dombivli,19:00,High,2
+Dombivli,20:00,High,2
+Dombivli,21:00,Medium,3
+Dombivli,22:00,Medium,3
+Dombivli,23:00,Low,2
+Thakurli,00:00,Low,1
+Thakurli,01:00,Low,1
+Thakurli,02:00,Low,1
+Thakurli,03:00,Low,1
+Thakurli,04:00,Low,2
+Thakurli,05:00,Medium,3
+Thakurli,06:00,High,3
+Thakurli,07:00,High,2
+Thakurli,08:00,High,2
+Thakurli,09:00,Medium,3
+Thakurli,10:00,Medium,3
+Thakurli,11:00,Medium,4
+Thakurli,12:00,Medium,4
+Thakurli,13:00,Medium,4
+Thakurli,14:00,Medium,4
+Thakurli,15:00,Medium,4
+Thakurli,16:00,High,3
+Thakurli,17:00,High,2
+Thakurli,18:00,High,2
+Thakurli,19:00,High,2
+Thakurli,20:00,Medium,3
+Thakurli,21:00,Medium,2
+Thakurli,22:00,Low,2
+Thakurli,23:00,Low,1
+Kalyan,00:00,Low,2
+Kalyan,01:00,Low,1
+Kalyan,02:00,Low,1
+Kalyan,03:00,Low,1
+Kalyan,04:00,Medium,3
+Kalyan,05:00,Medium,4
+Kalyan,06:00,High,3
+Kalyan,07:00,High,2
+Kalyan,08:00,High,2
+Kalyan,09:00,High,2
+Kalyan,10:00,Medium,3
+Kalyan,11:00,Medium,4
+Kalyan,12:00,Medium,4
+Kalyan,13:00,Medium,4
+Kalyan,14:00,Medium,4
+Kalyan,15:00,Medium,4
+Kalyan,16:00,High,3
+Kalyan,17:00,High,2
+Kalyan,18:00,High,2
+Kalyan,19:00,High,2
+Kalyan,20:00,High,2
+Kalyan,21:00,Medium,3
+Kalyan,22:00,Medium,3
+Kalyan,23:00,Low,2
+Vithalwadi,00:00,Low,1
+Vithalwadi,01:00,Low,1
+Vithalwadi,02:00,Low,1
+Vithalwadi,03:00,Low,1
+Vithalwadi,04:00,Low,2
+Vithalwadi,05:00,Medium,3
+Vithalwadi,06:00,Medium,3
+Vithalwadi,07:00,High,3
+Vithalwadi,08:00,High,2
+Vithalwadi,09:00,Medium,3
+Vithalwadi,10:00,Medium,4
+Vithalwadi,11:00,Medium,4
+Vithalwadi,12:00,Medium,4
+Vithalwadi,13:00,Medium,4
+Vithalwadi,14:00,Medium,4
+Vithalwadi,15:00,Medium,4
+Vithalwadi,16:00,Medium,4
+Vithalwadi,17:00,High,2
+Vithalwadi,18:00,High,2
+Vithalwadi,19:00,High,2
+Vithalwadi,20:00,Medium,3
+Vithalwadi,21:00,Medium,2
+Vithalwadi,22:00,Low,2
+Vithalwadi,23:00,Low,1
+Ulhasnagar,00:00,Low,1
+Ulhasnagar,01:00,Low,1
+Ulhasnagar,02:00,Low,1
+Ulhasnagar,03:00,Low,1
+Ulhasnagar,04:00,Low,2
+Ulhasnagar,05:00,Medium,3
+Ulhasnagar,06:00,Medium,3
+Ulhasnagar,07:00,High,3
+Ulhasnagar,08:00,High,2
+Ulhasnagar,09:00,Medium,3
+Ulhasnagar,10:00,Medium,4
+Ulhasnagar,11:00,Medium,4
+Ulhasnagar,12:00,Medium,4
+Ulhasnagar,13:00,Medium,4
+Ulhasnagar,14:00,Medium,4
+Ulhasnagar,15:00,Medium,4
+Ulhasnagar,16:00,Medium,4
+Ulhasnagar,17:00,High,2
+Ulhasnagar,18:00,High,2
+Ulhasnagar,19:00,High,2
+Ulhasnagar,20:00,Medium,3
+Ulhasnagar,21:00,Medium,2
+Ulhasnagar,22:00,Low,2
+Ulhasnagar,23:00,Low,1
+Ambernath,00:00,Low,1
+Ambernath,01:00,Low,1
+Ambernath,02:00,Low,1
+Ambernath,03:00,Low,1
+Ambernath,04:00,Low,2
+Ambernath,05:00,Medium,3
+Ambernath,06:00,High,3
+Ambernath,07:00,High,2
+Ambernath,08:00,High,2
+Ambernath,09:00,Medium,3
+Ambernath,10:00,Medium,4
+Ambernath,11:00,Medium,4
+Ambernath,12:00,Medium,4
+Ambernath,13:00,Medium,4
+Ambernath,14:00,Medium,4
+Ambernath,15:00,Medium,4
+Ambernath,16:00,Medium,4
+Ambernath,17:00,High,2
+Ambernath,18:00,High,2
+Ambernath,19:00,High,2
+Ambernath,20:00,High,3
+Ambernath,21:00,Medium,3
+Ambernath,22:00,Low,2
+Ambernath,23:00,Low,1
+Badlapur,00:00,Low,1
+Badlapur,01:00,Low,1
+Badlapur,02:00,Low,1
+Badlapur,03:00,Low,1
+Badlapur,04:00,Low,2
+Badlapur,05:00,Medium,3
+Badlapur,06:00,High,3
+Badlapur,07:00,High,2
+Badlapur,08:00,High,2
+Badlapur,09:00,Medium,3
+Badlapur,10:00,Medium,4
+Badlapur,11:00,Medium,4
+Badlapur,12:00,Medium,4
+Badlapur,13:00,Medium,4
+Badlapur,14:00,Medium,4
+Badlapur,15:00,Medium,4
+Badlapur,16:00,Medium,4
+Badlapur,17:00,High,2
+Badlapur,18:00,High,2
+Badlapur,19:00,High,2
+Badlapur,20:00,High,3
+Badlapur,21:00,Medium,3
+Badlapur,22:00,Low,2
+Badlapur,23:00,Low,1
+Vangani,00:00,Low,1
+Vangani,01:00,Low,1
+Vangani,02:00,Low,1
+Vangani,03:00,Low,1
+Vangani,04:00,Low,1
+Vangani,05:00,Low,2
+Vangani,06:00,Medium,2
+Vangani,07:00,Medium,2
+Vangani,08:00,Medium,2
+Vangani,09:00,Low,3
+Vangani,10:00,Low,3
+Vangani,11:00,Low,3
+Vangani,12:00,Low,3
+Vangani,13:00,Low,3
+Vangani,14:00,Low,3
+Vangani,15:00,Low,3
+Vangani,16:00,Medium,2
+Vangani,17:00,Medium,2
+Vangani,18:00,Medium,2
+Vangani,19:00,Medium,2
+Vangani,20:00,Low,2
+Vangani,21:00,Low,1
+Vangani,22:00,Low,1
+Vangani,23:00,Low,1
+Shelu,00:00,Low,1
+Shelu,01:00,Low,1
+Shelu,02:00,Low,1
+Shelu,03:00,Low,1
+Shelu,04:00,Low,1
+Shelu,05:00,Low,2
+Shelu,06:00,Medium,2
+Shelu,07:00,Medium,2
+Shelu,08:00,Medium,2
+Shelu,09:00,Low,3
+Shelu,10:00,Low,3
+Shelu,11:00,Low,3
+Shelu,12:00,Low,3
+Shelu,13:00,Low,3
+Shelu,14:00,Low,3
+Shelu,15:00,Low,3
+Shelu,16:00,Medium,2
+Shelu,17:00,Medium,2
+Shelu,18:00,Medium,2
+Shelu,19:00,Medium,2
+Shelu,20:00,Low,2
+Shelu,21:00,Low,1
+Shelu,22:00,Low,1
+Shelu,23:00,Low,1
+Neral,00:00,Low,1
+Neral,01:00,Low,1
+Neral,02:00,Low,1
+Neral,03:00,Low,1
+Neral,04:00,Low,2
+Neral,05:00,Medium,3
+Neral,06:00,Medium,3
+Neral,07:00,Medium,3
+Neral,08:00,Medium,3
+Neral,09:00,Medium,4
+Neral,10:00,Medium,4
+Neral,11:00,Medium,4
+Neral,12:00,Medium,4
+Neral,13:00,Medium,4
+Neral,14:00,Medium,4
+Neral,15:00,Medium,4
+Neral,16:00,Medium,3
+Neral,17:00,Medium,3
+Neral,18:00,Medium,3
+Neral,19:00,Medium,3
+Neral,20:00,Low,3
+Neral,21:00,Low,2
+Neral,22:00,Low,2
+Neral,23:00,Low,1
+Bhivpuri Rd,00:00,Low,1
+Bhivpuri Rd,01:00,Low,1
+Bhivpuri Rd,02:00,Low,1
+Bhivpuri Rd,03:00,Low,1
+Bhivpuri Rd,04:00,Low,1
+Bhivpuri Rd,05:00,Low,2
+Bhivpuri Rd,06:00,Medium,2
+Bhivpuri Rd,07:00,Medium,2
+Bhivpuri Rd,08:00,Medium,2
+Bhivpuri Rd,09:00,Low,3
+Bhivpuri Rd,10:00,Low,3
+Bhivpuri Rd,11:00,Low,3
+Bhivpuri Rd,12:00,Low,3
+Bhivpuri Rd,13:00,Low,3
+Bhivpuri Rd,14:00,Low,3
+Bhivpuri Rd,15:00,Low,3
+Bhivpuri Rd,16:00,Medium,2
+Bhivpuri Rd,17:00,Medium,2
+Bhivpuri Rd,18:00,Medium,2
+Bhivpuri Rd,19:00,Medium,2
+Bhivpuri Rd,20:00,Low,2
+Bhivpuri Rd,21:00,Low,1
+Bhivpuri Rd,22:00,Low,1
+Bhivpuri Rd,23:00,Low,1
+Karjat,00:00,Low,2
+Karjat,01:00,Low,1
+Karjat,02:00,Low,1
+Karjat,03:00,Low,1
+Karjat,04:00,Low,2
+Karjat,05:00,Medium,3
+Karjat,06:00,Medium,3
+Karjat,07:00,High,3
+Karjat,08:00,High,3
+Karjat,09:00,Medium,4
+Karjat,10:00,Medium,4
+Karjat,11:00,Medium,4
+Karjat,12:00,Medium,4
+Karjat,13:00,Medium,4
+Karjat,14:00,Medium,4
+Karjat,15:00,Medium,4
+Karjat,16:00,Medium,3
+Karjat,17:00,High,3
+Karjat,18:00,High,3
+Karjat,19:00,High,3
+Karjat,20:00,Medium,3
+Karjat,21:00,Medium,2
+Karjat,22:00,Low,2
+Karjat,23:00,Low,1
+Palasdari,00:00,Low,1
+Palasdari,01:00,Low,1
+Palasdari,02:00,Low,1
+Palasdari,03:00,Low,1
+Palasdari,04:00,Low,1
+Palasdari,05:00,Low,2
+Palasdari,06:00,Low,2
+Palasdari,07:00,Medium,2
+Palasdari,08:00,Medium,2
+Palasdari,09:00,Low,3
+Palasdari,10:00,Low,3
+Palasdari,11:00,Low,3
+Palasdari,12:00,Low,3
+Palasdari,13:00,Low,3
+Palasdari,14:00,Low,3
+Palasdari,15:00,Low,3
+Palasdari,16:00,Low,2
+Palasdari,17:00,Medium,2
+Palasdari,18:00,Medium,2
+Palasdari,19:00,Low,2
+Palasdari,20:00,Low,2
+Palasdari,21:00,Low,1
+Palasdari,22:00,Low,1
+Palasdari,23:00,Low,1
+Kelavli,00:00,Low,1
+Kelavli,01:00,Low,1
+Kelavli,02:00,Low,1
+Kelavli,03:00,Low,1
+Kelavli,04:00,Low,1
+Kelavli,05:00,Low,2
+Kelavli,06:00,Low,2
+Kelavli,07:00,Medium,2
+Kelavli,08:00,Medium,2
+Kelavli,09:00,Low,3
+Kelavli,10:00,Low,3
+Kelavli,11:00,Low,3
+Kelavli,12:00,Low,3
+Kelavli,13:00,Low,3
+Kelavli,14:00,Low,3
+Kelavli,15:00,Low,3
+Kelavli,16:00,Low,2
+Kelavli,17:00,Medium,2
+Kelavli,18:00,Medium,2
+Kelavli,19:00,Low,2
+Kelavli,20:00,Low,2
+Kelavli,21:00,Low,1
+Kelavli,22:00,Low,1
+Kelavli,23:00,Low,1
+Dolavli,00:00,Low,1
+Dolavli,01:00,Low,1
+Dolavli,02:00,Low,1
+Dolavli,03:00,Low,1
+Dolavli,04:00,Low,1
+Dolavli,05:00,Low,2
+Dolavli,06:00,Low,2
+Dolavli,07:00,Medium,2
+Dolavli,08:00,Medium,2
+Dolavli,09:00,Low,3
+Dolavli,10:00,Low,3
+Dolavli,11:00,Low,3
+Dolavli,12:00,Low,3
+Dolavli,13:00,Low,3
+Dolavli,14:00,Low,3
+Dolavli,15:00,Low,3
+Dolavli,16:00,Low,2
+Dolavli,17:00,Medium,2
+Dolavli,18:00,Medium,2
+Dolavli,19:00,Low,2
+Dolavli,20:00,Low,2
+Dolavli,21:00,Low,1
+Dolavli,22:00,Low,1
+Dolavli,23:00,Low,1
+Lowjee,00:00,Low,1
+Lowjee,01:00,Low,1
+Lowjee,02:00,Low,1
+Lowjee,03:00,Low,1
+Lowjee,04:00,Low,1
+Lowjee,05:00,Low,2
+Lowjee,06:00,Low,2
+Lowjee,07:00,Medium,2
+Lowjee,08:00,Medium,2
+Lowjee,09:00,Low,3
+Lowjee,10:00,Low,3
+Lowjee,11:00,Low,3
+Lowjee,12:00,Low,3
+Lowjee,13:00,Low,3
+Lowjee,14:00,Low,3
+Lowjee,15:00,Low,3
+Lowjee,16:00,Low,2
+Lowjee,17:00,Medium,2
+Lowjee,18:00,Medium,2
+Lowjee,19:00,Low,2
+Lowjee,20:00,Low,2
+Lowjee,21:00,Low,1
+Lowjee,22:00,Low,1
+Lowjee,23:00,Low,1
+Khopoli,00:00,Low,1
+Khopoli,01:00,Low,1
+Khopoli,02:00,Low,1
+Khopoli,03:00,Low,1
+Khopoli,04:00,Low,2
+Khopoli,05:00,Medium,3
+Khopoli,06:00,Medium,3
+Khopoli,07:00,High,3
+Khopoli,08:00,High,3
+Khopoli,09:00,Medium,4
+Khopoli,10:00,Medium,4
+Khopoli,11:00,Low,4
+Khopoli,12:00,Low,4
+Khopoli,13:00,Low,4
+Khopoli,14:00,Low,4
+Khopoli,15:00,Low,4
+Khopoli,16:00,Medium,3
+Khopoli,17:00,Medium,3
+Khopoli,18:00,High,3
+Khopoli,19:00,High,3
+Khopoli,20:00,Medium,3
+Khopoli,21:00,Medium,3
+Khopoli,22:00,Low,2
+Khopoli,23:00,Low,1
+Shahad,00:00,Low,1
+Shahad,01:00,Low,1
+Shahad,02:00,Low,1
+Shahad,03:00,Low,1
+Shahad,04:00,Low,2
+Shahad,05:00,Medium,3
+Shahad,06:00,Medium,3
+Shahad,07:00,High,3
+Shahad,08:00,High,2
+Shahad,09:00,Medium,3
+Shahad,10:00,Medium,4
+Shahad,11:00,Medium,4
+Shahad,12:00,Medium,4
+Shahad,13:00,Medium,4
+Shahad,14:00,Medium,4
+Shahad,15:00,Medium,4
+Shahad,16:00,Medium,4
+Shahad,17:00,High,2
+Shahad,18:00,High,2
+Shahad,19:00,High,2
+Shahad,20:00,Medium,3
+Shahad,21:00,Medium,2
+Shahad,22:00,Low,2
+Shahad,23:00,Low,1
+Ambivali,00:00,Low,1
+Ambivali,01:00,Low,1
+Ambivali,02:00,Low,1
+Ambivali,03:00,Low,1
+Ambivali,04:00,Low,2
+Ambivali,05:00,Medium,3
+Ambivali,06:00,Medium,3
+Ambivali,07:00,High,3
+Ambivali,08:00,High,2
+Ambivali,09:00,Medium,3
+Ambivali,10:00,Medium,4
+Ambivali,11:00,Medium,4
+Ambivali,12:00,Medium,4
+Ambivali,13:00,Medium,4
+Ambivali,14:00,Medium,4
+Ambivali,15:00,Medium,4
+Ambivali,16:00,Medium,4
+Ambivali,17:00,High,2
+Ambivali,18:00,High,2
+Ambivali,19:00,High,2
+Ambivali,20:00,Medium,3
+Ambivali,21:00,Medium,2
+Ambivali,22:00,Low,2
+Ambivali,23:00,Low,1
+Titwala,00:00,Low,1
+Titwala,01:00,Low,1
+Titwala,02:00,Low,1
+Titwala,03:00,Low,1
+Titwala,04:00,Low,2
+Titwala,05:00,Medium,3
+Titwala,06:00,Medium,3
+Titwala,07:00,High,3
+Titwala,08:00,High,2
+Titwala,09:00,Medium,3
+Titwala,10:00,Medium,4
+Titwala,11:00,Medium,4
+Titwala,12:00,Medium,4
+Titwala,13:00,Medium,4
+Titwala,14:00,Medium,4
+Titwala,15:00,Medium,4
+Titwala,16:00,Medium,4
+Titwala,17:00,High,2
+Titwala,18:00,High,2
+Titwala,19:00,High,2
+Titwala,20:00,Medium,3
+Titwala,21:00,Medium,2
+Titwala,22:00,Low,2
+Titwala,23:00,Low,1
+Khadavli,00:00,Low,1
+Khadavli,01:00,Low,1
+Khadavli,02:00,Low,1
+Khadavli,03:00,Low,1
+Khadavli,04:00,Low,1
+Khadavli,05:00,Low,2
+Khadavli,06:00,Medium,2
+Khadavli,07:00,Medium,2
+Khadavli,08:00,Medium,2
+Khadavli,09:00,Low,3
+Khadavli,10:00,Low,3
+Khadavli,11:00,Low,3
+Khadavli,12:00,Low,3
+Khadavli,13:00,Low,3
+Khadavli,14:00,Low,3
+Khadavli,15:00,Low,3
+Khadavli,16:00,Medium,2
+Khadavli,17:00,Medium,2
+Khadavli,18:00,Medium,2
+Khadavli,19:00,Medium,2
+Khadavli,20:00,Low,2
+Khadavli,21:00,Low,1
+Khadavli,22:00,Low,1
+Khadavli,23:00,Low,1
+Vasind,00:00,Low,1
+Vasind,01:00,Low,1
+Vasind,02:00,Low,1
+Vasind,03:00,Low,1
+Vasind,04:00,Low,1
+Vasind,05:00,Low,2
+Vasind,06:00,Medium,2
+Vasind,07:00,Medium,2
+Vasind,08:00,Medium,2
+Vasind,09:00,Low,3
+Vasind,10:00,Low,3
+Vasind,11:00,Low,3
+Vasind,12:00,Low,3
+Vasind,13:00,Low,3
+Vasind,14:00,Low,3
+Vasind,15:00,Low,3
+Vasind,16:00,Medium,2
+Vasind,17:00,Medium,2
+Vasind,18:00,Medium,2
+Vasind,19:00,Medium,2
+Vasind,20:00,Low,2
+Vasind,21:00,Low,1
+Vasind,22:00,Low,1
+Vasind,23:00,Low,1
+Asangaon,00:00,Low,1
+Asangaon,01:00,Low,1
+Asangaon,02:00,Low,1
+Asangaon,03:00,Low,1
+Asangaon,04:00,Low,2
+Asangaon,05:00,Medium,3
+Asangaon,06:00,Medium,3
+Asangaon,07:00,High,3
+Asangaon,08:00,High,2
+Asangaon,09:00,Medium,3
+Asangaon,10:00,Medium,4
+Asangaon,11:00,Medium,4
+Asangaon,12:00,Medium,4
+Asangaon,13:00,Medium,4
+Asangaon,14:00,Medium,4
+Asangaon,15:00,Medium,4
+Asangaon,16:00,Medium,4
+Asangaon,17:00,High,2
+Asangaon,18:00,High,2
+Asangaon,19:00,High,2
+Asangaon,20:00,Medium,3
+Asangaon,21:00,Medium,2
+Asangaon,22:00,Low,2
+Asangaon,23:00,Low,1
+Atgaon,00:00,Low,1
+Atgaon,01:00,Low,1
+Atgaon,02:00,Low,1
+Atgaon,03:00,Low,1
+Atgaon,04:00,Low,1
+Atgaon,05:00,Low,2
+Atgaon,06:00,Medium,2
+Atgaon,07:00,Medium,2
+Atgaon,08:00,Medium,2
+Atgaon,09:00,Low,3
+Atgaon,10:00,Low,3
+Atgaon,11:00,Low,3
+Atgaon,12:00,Low,3
+Atgaon,13:00,Low,3
+Atgaon,14:00,Low,3
+Atgaon,15:00,Low,3
+Atgaon,16:00,Medium,2
+Atgaon,17:00,Medium,2
+Atgaon,18:00,Medium,2
+Atgaon,19:00,Medium,2
+Atgaon,20:00,Low,2
+Atgaon,21:00,Low,1
+Atgaon,22:00,Low,1
+Atgaon,23:00,Low,1
+Khardi,00:00,Low,1
+Khardi,01:00,Low,1
+Khardi,02:00,Low,1
+Khardi,03:00,Low,1
+Khardi,04:00,Low,1
+Khardi,05:00,Low,2
+Khardi,06:00,Medium,2
+Khardi,07:00,Medium,2
+Khardi,08:00,Medium,2
+Khardi,09:00,Low,3
+Khardi,10:00,Low,3
+Khardi,11:00,Low,3
+Khardi,12:00,Low,3
+Khardi,13:00,Low,3
+Khardi,14:00,Low,3
+Khardi,15:00,Low,3
+Khardi,16:00,Medium,2
+Khardi,17:00,Medium,2
+Khardi,18:00,Medium,2
+Khardi,19:00,Medium,2
+Khardi,20:00,Low,2
+Khardi,21:00,Low,1
+Khardi,22:00,Low,1
+Khardi,23:00,Low,1
+Kasara,00:00,Low,1
+Kasara,01:00,Low,1
+Kasara,02:00,Low,1
+Kasara,03:00,Low,1
+Kasara,04:00,Low,2
+Kasara,05:00,Medium,3
+Kasara,06:00,Medium,3
+Kasara,07:00,High,3
+Kasara,08:00,High,3
+Kasara,09:00,Medium,4
+Kasara,10:00,Medium,4
+Kasara,11:00,Low,4
+Kasara,12:00,Low,4
+Kasara,13:00,Low,4
+Kasara,14:00,Low,4
+Kasara,15:00,Low,4
+Kasara,16:00,Medium,3
+Kasara,17:00,Medium,3
+Kasara,18:00,High,3
+Kasara,19:00,High,3
+Kasara,20:00,Medium,3
+Kasara,21:00,Medium,3
+Kasara,22:00,Low,2
+Kasara,23:00,Low,1
+Dockyard Rd,00:00,Low,2
+Dockyard Rd,01:00,Low,1
+Dockyard Rd,02:00,Low,1
+Dockyard Rd,03:00,Low,1
+Dockyard Rd,04:00,Low,2
+Dockyard Rd,05:00,Medium,3
+Dockyard Rd,06:00,Medium,4
+Dockyard Rd,07:00,High,3
+Dockyard Rd,08:00,High,2
+Dockyard Rd,09:00,High,2
+Dockyard Rd,10:00,Medium,3
+Dockyard Rd,11:00,Medium,4
+Dockyard Rd,12:00,Medium,4
+Dockyard Rd,13:00,Medium,4
+Dockyard Rd,14:00,Medium,4
+Dockyard Rd,15:00,Medium,4
+Dockyard Rd,16:00,High,3
+Dockyard Rd,17:00,High,2
+Dockyard Rd,18:00,High,2
+Dockyard Rd,19:00,High,2
+Dockyard Rd,20:00,Medium,3
+Dockyard Rd,21:00,Medium,3
+Dockyard Rd,22:00,Medium,2
+Dockyard Rd,23:00,Low,2
+Reay Rd,00:00,Low,2
+Reay Rd,01:00,Low,1
+Reay Rd,02:00,Low,1
+Reay Rd,03:00,Low,1
+Reay Rd,04:00,Low,2
+Reay Rd,05:00,Medium,3
+Reay Rd,06:00,Medium,4
+Reay Rd,07:00,High,3
+Reay Rd,08:00,High,2
+Reay Rd,09:00,High,2
+Reay Rd,10:00,Medium,3
+Reay Rd,11:00,Medium,4
+Reay Rd,12:00,Medium,4
+Reay Rd,13:00,Medium,4
+Reay Rd,14:00,Medium,4
+Reay Rd,15:00,Medium,4
+Reay Rd,16:00,High,3
+Reay Rd,17:00,High,2
+Reay Rd,18:00,High,2
+Reay Rd,19:00,High,2
+Reay Rd,20:00,Medium,3
+Reay Rd,21:00,Medium,3
+Reay Rd,22:00,Medium,2
+Reay Rd,23:00,Low,2
+Cotton Green,00:00,Low,2
+Cotton Green,01:00,Low,1
+Cotton Green,02:00,Low,1
+Cotton Green,03:00,Low,1
+Cotton Green,04:00,Low,2
+Cotton Green,05:00,Medium,3
+Cotton Green,06:00,Medium,4
+Cotton Green,07:00,High,3
+Cotton Green,08:00,High,2
+Cotton Green,09:00,High,2
+Cotton Green,10:00,Medium,3
+Cotton Green,11:00,Medium,4
+Cotton Green,12:00,Medium,4
+Cotton Green,13:00,Medium,4
+Cotton Green,14:00,Medium,4
+Cotton Green,15:00,Medium,4
+Cotton Green,16:00,High,3
+Cotton Green,17:00,High,2
+Cotton Green,18:00,High,2
+Cotton Green,19:00,High,2
+Cotton Green,20:00,Medium,3
+Cotton Green,21:00,Medium,3
+Cotton Green,22:00,Medium,2
+Cotton Green,23:00,Low,2
+Sewri,00:00,Low,2
+Sewri,01:00,Low,1
+Sewri,02:00,Low,1
+Sewri,03:00,Low,1
+Sewri,04:00,Low,2
+Sewri,05:00,Medium,3
+Sewri,06:00,Medium,4
+Sewri,07:00,High,3
+Sewri,08:00,High,2
+Sewri,09:00,High,2
+Sewri,10:00,Medium,3
+Sewri,11:00,Medium,4
+Sewri,12:00,Medium,4
+Sewri,13:00,Medium,4
+Sewri,14:00,Medium,4
+Sewri,15:00,Medium,4
+Sewri,16:00,High,3
+Sewri,17:00,High,2
+Sewri,18:00,High,2
+Sewri,19:00,High,2
+Sewri,20:00,Medium,3
+Sewri,21:00,Medium,3
+Sewri,22:00,Medium,2
+Sewri,23:00,Low,2
+Wadala Rd,00:00,Low,2
+Wadala Rd,01:00,Low,1
+Wadala Rd,02:00,Low,1
+Wadala Rd,03:00,Low,1
+Wadala Rd,04:00,Low,2
+Wadala Rd,05:00,Medium,3
+Wadala Rd,06:00,High,3
+Wadala Rd,07:00,High,2
+Wadala Rd,08:00,High,2
+Wadala Rd,09:00,High,2
+Wadala Rd,10:00,Medium,3
+Wadala Rd,11:00,Medium,4
+Wadala Rd,12:00,Medium,4
+Wadala Rd,13:00,Medium,4
+Wadala Rd,14:00,Medium,4
+Wadala Rd,15:00,Medium,4
+Wadala Rd,16:00,High,3
+Wadala Rd,17:00,High,2
+Wadala Rd,18:00,High,2
+Wadala Rd,19:00,High,2
+Wadala Rd,20:00,High,3
+Wadala Rd,21:00,Medium,3
+Wadala Rd,22:00,Medium,2
+Wadala Rd,23:00,Low,2
+GTB Nagar,00:00,Low,2
+GTB Nagar,01:00,Low,1
+GTB Nagar,02:00,Low,1
+GTB Nagar,03:00,Low,1
+GTB Nagar,04:00,Low,2
+GTB Nagar,05:00,Medium,3
+GTB Nagar,06:00,Medium,4
+GTB Nagar,07:00,High,3
+GTB Nagar,08:00,High,2
+GTB Nagar,09:00,High,2
+GTB Nagar,10:00,Medium,3
+GTB Nagar,11:00,Medium,4
+GTB Nagar,12:00,Medium,4
+GTB Nagar,13:00,Medium,4
+GTB Nagar,14:00,Medium,4
+GTB Nagar,15:00,Medium,4
+GTB Nagar,16:00,High,3
+GTB Nagar,17:00,High,2
+GTB Nagar,18:00,High,2
+GTB Nagar,19:00,High,2
+GTB Nagar,20:00,Medium,3
+GTB Nagar,21:00,Medium,3
+GTB Nagar,22:00,Medium,2
+GTB Nagar,23:00,Low,2
+Chunabhatti,00:00,Low,2
+Chunabhatti,01:00,Low,1
+Chunabhatti,02:00,Low,1
+Chunabhatti,03:00,Low,1
+Chunabhatti,04:00,Low,2
+Chunabhatti,05:00,Medium,3
+Chunabhatti,06:00,Medium,4
+Chunabhatti,07:00,High,3
+Chunabhatti,08:00,High,2
+Chunabhatti,09:00,High,2
+Chunabhatti,10:00,Medium,3
+Chunabhatti,11:00,Medium,4
+Chunabhatti,12:00,Medium,4
+Chunabhatti,13:00,Medium,4
+Chunabhatti,14:00,Medium,4
+Chunabhatti,15:00,Medium,4
+Chunabhatti,16:00,High,3
+Chunabhatti,17:00,High,2
+Chunabhatti,18:00,High,2
+Chunabhatti,19:00,High,2
+Chunabhatti,20:00,Medium,3
+Chunabhatti,21:00,Medium,3
+Chunabhatti,22:00,Medium,2
+Chunabhatti,23:00,Low,2
+Tilak Nagar,00:00,Low,2
+Tilak Nagar,01:00,Low,1
+Tilak Nagar,02:00,Low,1
+Tilak Nagar,03:00,Low,1
+Tilak Nagar,04:00,Low,2
+Tilak Nagar,05:00,Medium,3
+Tilak Nagar,06:00,Medium,4
+Tilak Nagar,07:00,High,3
+Tilak Nagar,08:00,High,2
+Tilak Nagar,09:00,High,2
+Tilak Nagar,10:00,Medium,3
+Tilak Nagar,11:00,Medium,4
+Tilak Nagar,12:00,Medium,4
+Tilak Nagar,13:00,Medium,4
+Tilak Nagar,14:00,Medium,4
+Tilak Nagar,15:00,Medium,4
+Tilak Nagar,16:00,High,3
+Tilak Nagar,17:00,High,2
+Tilak Nagar,18:00,High,2
+Tilak Nagar,19:00,High,2
+Tilak Nagar,20:00,Medium,3
+Tilak Nagar,21:00,Medium,3
+Tilak Nagar,22:00,Medium,2
+Tilak Nagar,23:00,Low,2
+Chembur,00:00,Low,2
+Chembur,01:00,Low,1
+Chembur,02:00,Low,1
+Chembur,03:00,Low,1
+Chembur,04:00,Low,2
+Chembur,05:00,Medium,3
+Chembur,06:00,Medium,4
+Chembur,07:00,High,3
+Chembur,08:00,High,2
+Chembur,09:00,High,2
+Chembur,10:00,Medium,3
+Chembur,11:00,Medium,4
+Chembur,12:00,Medium,4
+Chembur,13:00,Medium,4
+Chembur,14:00,Medium,4
+Chembur,15:00,Medium,4
+Chembur,16:00,High,3
+Chembur,17:00,High,2
+Chembur,18:00,High,2
+Chembur,19:00,High,2
+Chembur,20:00,Medium,3
+Chembur,21:00,Medium,3
+Chembur,22:00,Medium,2
+Chembur,23:00,Low,2
+Govandi,00:00,Low,1
+Govandi,01:00,Low,1
+Govandi,02:00,Low,1
+Govandi,03:00,Low,1
+Govandi,04:00,Low,2
+Govandi,05:00,Medium,3
+Govandi,06:00,Medium,3
+Govandi,07:00,High,2
+Govandi,08:00,High,2
+Govandi,09:00,High,2
+Govandi,10:00,Medium,3
+Govandi,11:00,Medium,3
+Govandi,12:00,Medium,3
+Govandi,13:00,Medium,3
+Govandi,14:00,Medium,3
+Govandi,15:00,Medium,3
+Govandi,16:00,High,2
+Govandi,17:00,High,2
+Govandi,18:00,High,2
+Govandi,19:00,High,2
+Govandi,20:00,Medium,3
+Govandi,21:00,Medium,2
+Govandi,22:00,Low,2
+Govandi,23:00,Low,1
+Mankhurd,00:00,Low,1
+Mankhurd,01:00,Low,1
+Mankhurd,02:00,Low,1
+Mankhurd,03:00,Low,1
+Mankhurd,04:00,Low,2
+Mankhurd,05:00,Medium,3
+Mankhurd,06:00,Medium,3
+Mankhurd,07:00,High,2
+Mankhurd,08:00,High,2
+Mankhurd,09:00,High,2
+Mankhurd,10:00,Medium,3
+Mankhurd,11:00,Medium,3
+Mankhurd,12:00,Medium,3
+Mankhurd,13:00,Medium,3
+Mankhurd,14:00,Medium,3
+Mankhurd,15:00,Medium,3
+Mankhurd,16:00,High,2
+Mankhurd,17:00,High,2
+Mankhurd,18:00,High,2
+Mankhurd,19:00,High,2
+Mankhurd,20:00,Medium,3
+Mankhurd,21:00,Medium,2
+Mankhurd,22:00,Low,2
+Mankhurd,23:00,Low,1
+Vashi,00:00,Low,2
+Vashi,01:00,Low,1
+Vashi,02:00,Low,1
+Vashi,03:00,Low,1
+Vashi,04:00,Low,2
+Vashi,05:00,Medium,4
+Vashi,06:00,Medium,4
+Vashi,07:00,High,3
+Vashi,08:00,High,3
+Vashi,09:00,High,3
+Vashi,10:00,High,3
+Vashi,11:00,Medium,4
+Vashi,12:00,Medium,5
+Vashi,13:00,Medium,5
+Vashi,14:00,Medium,5
+Vashi,15:00,Medium,4
+Vashi,16:00,Medium,4
+Vashi,17:00,High,3
+Vashi,18:00,High,3
+Vashi,19:00,High,3
+Vashi,20:00,High,3
+Vashi,21:00,Medium,4
+Vashi,22:00,Medium,3
+Vashi,23:00,Low,2
+Sanpada,00:00,Low,2
+Sanpada,01:00,Low,1
+Sanpada,02:00,Low,1
+Sanpada,03:00,Low,1
+Sanpada,04:00,Low,2
+Sanpada,05:00,Medium,3
+Sanpada,06:00,Medium,4
+Sanpada,07:00,High,3
+Sanpada,08:00,High,2
+Sanpada,09:00,High,2
+Sanpada,10:00,Medium,3
+Sanpada,11:00,Medium,4
+Sanpada,12:00,Medium,4
+Sanpada,13:00,Medium,4
+Sanpada,14:00,Medium,4
+Sanpada,15:00,Medium,4
+Sanpada,16:00,High,3
+Sanpada,17:00,High,2
+Sanpada,18:00,High,2
+Sanpada,19:00,High,2
+Sanpada,20:00,Medium,3
+Sanpada,21:00,Medium,3
+Sanpada,22:00,Medium,2
+Sanpada,23:00,Low,2
+Jui Nagar,00:00,Low,2
+Jui Nagar,01:00,Low,1
+Jui Nagar,02:00,Low,1
+Jui Nagar,03:00,Low,1
+Jui Nagar,04:00,Low,2
+Jui Nagar,05:00,Medium,3
+Jui Nagar,06:00,Medium,4
+Jui Nagar,07:00,High,3
+Jui Nagar,08:00,High,2
+Jui Nagar,09:00,High,2
+Jui Nagar,10:00,Medium,3
+Jui Nagar,11:00,Medium,4
+Jui Nagar,12:00,Medium,4
+Jui Nagar,13:00,Medium,4
+Jui Nagar,14:00,Medium,4
+Jui Nagar,15:00,Medium,4
+Jui Nagar,16:00,High,3
+Jui Nagar,17:00,High,2
+Jui Nagar,18:00,High,2
+Jui Nagar,19:00,High,2
+Jui Nagar,20:00,Medium,3
+Jui Nagar,21:00,Medium,3
+Jui Nagar,22:00,Medium,2
+Jui Nagar,23:00,Low,2
+Nerul,00:00,Low,2
+Nerul,01:00,Low,1
+Nerul,02:00,Low,1
+Nerul,03:00,Low,1
+Nerul,04:00,Low,2
+Nerul,05:00,Medium,3
+Nerul,06:00,Medium,4
+Nerul,07:00,High,3
+Nerul,08:00,High,2
+Nerul,09:00,High,2
+Nerul,10:00,Medium,3
+Nerul,11:00,Medium,4
+Nerul,12:00,Medium,4
+Nerul,13:00,Medium,4
+Nerul,14:00,Medium,4
+Nerul,15:00,Medium,4
+Nerul,16:00,High,3
+Nerul,17:00,High,2
+Nerul,18:00,High,2
+Nerul,19:00,High,2
+Nerul,20:00,Medium,3
+Nerul,21:00,Medium,3
+Nerul,22:00,Medium,2
+Nerul,23:00,Low,2
+Seawood,00:00,Low,2
+Seawood,01:00,Low,1
+Seawood,02:00,Low,1
+Seawood,03:00,Low,1
+Seawood,04:00,Low,2
+Seawood,05:00,Medium,3
+Seawood,06:00,Medium,4
+Seawood,07:00,High,3
+Seawood,08:00,High,2
+Seawood,09:00,High,2
+Seawood,10:00,Medium,3
+Seawood,11:00,Medium,4
+Seawood,12:00,Medium,4
+Seawood,13:00,Medium,4
+Seawood,14:00,Medium,4
+Seawood,15:00,Medium,4
+Seawood,16:00,High,3
+Seawood,17:00,High,2
+Seawood,18:00,High,2
+Seawood,19:00,High,2
+Seawood,20:00,Medium,3
+Seawood,21:00,Medium,3
+Seawood,22:00,Medium,2
+Seawood,23:00,Low,2
+Belapur,00:00,Low,2
+Belapur,01:00,Low,1
+Belapur,02:00,Low,1
+Belapur,03:00,Low,1
+Belapur,04:00,Low,2
+Belapur,05:00,Medium,3
+Belapur,06:00,Medium,4
+Belapur,07:00,High,3
+Belapur,08:00,High,2
+Belapur,09:00,High,2
+Belapur,10:00,Medium,3
+Belapur,11:00,Medium,4
+Belapur,12:00,Medium,4
+Belapur,13:00,Medium,4
+Belapur,14:00,Medium,4
+Belapur,15:00,Medium,4
+Belapur,16:00,High,3
+Belapur,17:00,High,2
+Belapur,18:00,High,2
+Belapur,19:00,High,2
+Belapur,20:00,Medium,3
+Belapur,21:00,Medium,3
+Belapur,22:00,Medium,2
+Belapur,23:00,Low,2
+Kharghar,00:00,Low,2
+Kharghar,01:00,Low,1
+Kharghar,02:00,Low,1
+Kharghar,03:00,Low,1
+Kharghar,04:00,Low,2
+Kharghar,05:00,Medium,3
+Kharghar,06:00,High,3
+Kharghar,07:00,High,2
+Kharghar,08:00,High,2
+Kharghar,09:00,Medium,3
+Kharghar,10:00,Medium,4
+Kharghar,11:00,Medium,4
+Kharghar,12:00,Medium,4
+Kharghar,13:00,Medium,4
+Kharghar,14:00,Medium,4
+Kharghar,15:00,Medium,4
+Kharghar,16:00,Medium,4
+Kharghar,17:00,High,2
+Kharghar,18:00,High,2
+Kharghar,19:00,High,2
+Kharghar,20:00,High,3
+Kharghar,21:00,Medium,3
+Kharghar,22:00,Low,2
+Kharghar,23:00,Low,1
+Khandeshwar,00:00,Low,1
+Khandeshwar,01:00,Low,1
+Khandeshwar,02:00,Low,1
+Khandeshwar,03:00,Low,1
+Khandeshwar,04:00,Low,2
+Khandeshwar,05:00,Medium,3
+Khandeshwar,06:00,High,3
+Khandeshwar,07:00,High,2
+Khandeshwar,08:00,High,2
+Khandeshwar,09:00,Medium,3
+Khandeshwar,10:00,Medium,4
+Khandeshwar,11:00,Medium,4
+Khandeshwar,12:00,Medium,4
+Khandeshwar,13:00,Medium,4
+Khandeshwar,14:00,Medium,4
+Khandeshwar,15:00,Medium,4
+Khandeshwar,16:00,Medium,4
+Khandeshwar,17:00,High,2
+Khandeshwar,18:00,High,2
+Khandeshwar,19:00,High,2
+Khandeshwar,20:00,Medium,3
+Khandeshwar,21:00,Medium,2
+Khandeshwar,22:00,Low,2
+Khandeshwar,23:00,Low,1
+Panvel,00:00,Low,2
+Panvel,01:00,Low,1
+Panvel,02:00,Low,1
+Panvel,03:00,Low,1
+Panvel,04:00,Low,2
+Panvel,05:00,Medium,3
+Panvel,06:00,High,3
+Panvel,07:00,High,3
+Panvel,08:00,High,3
+Panvel,09:00,Medium,4
+Panvel,10:00,Medium,4
+Panvel,11:00,Medium,4
+Panvel,12:00,Medium,4
+Panvel,13:00,Medium,4
+Panvel,14:00,Medium,4
+Panvel,15:00,Medium,4
+Panvel,16:00,Medium,4
+Panvel,17:00,High,3
+Panvel,18:00,High,3
+Panvel,19:00,High,3
+Panvel,20:00,High,3
+Panvel,21:00,Medium,3
+Panvel,22:00,Medium,3
+Panvel,23:00,Low,2
+Airoli,00:00,Low,2
+Airoli,01:00,Low,1
+Airoli,02:00,Low,1
+Airoli,03:00,Low,1
+Airoli,04:00,Low,2
+Airoli,05:00,Medium,3
+Airoli,06:00,Medium,4
+Airoli,07:00,High,3
+Airoli,08:00,High,2
+Airoli,09:00,High,2
+Airoli,10:00,Medium,3
+Airoli,11:00,Medium,4
+Airoli,12:00,Medium,4
+Airoli,13:00,Medium,4
+Airoli,14:00,Medium,4
+Airoli,15:00,Medium,4
+Airoli,16:00,High,3
+Airoli,17:00,High,2
+Airoli,18:00,High,2
+Airoli,19:00,High,2
+Airoli,20:00,Medium,3
+Airoli,21:00,Medium,3
+Airoli,22:00,Medium,2
+Airoli,23:00,Low,2
+Rabale,00:00,Low,2
+Rabale,01:00,Low,1
+Rabale,02:00,Low,1
+Rabale,03:00,Low,1
+Rabale,04:00,Low,2
+Rabale,05:00,Medium,3
+Rabale,06:00,Medium,4
+Rabale,07:00,High,3
+Rabale,08:00,High,2
+Rabale,09:00,High,2
+Rabale,10:00,Medium,3
+Rabale,11:00,Medium,4
+Rabale,12:00,Medium,4
+Rabale,13:00,Medium,4
+Rabale,14:00,Medium,4
+Rabale,15:00,Medium,4
+Rabale,16:00,High,3
+Rabale,17:00,High,2
+Rabale,18:00,High,2
+Rabale,19:00,High,2
+Rabale,20:00,Medium,3
+Rabale,21:00,Medium,3
+Rabale,22:00,Medium,2
+Rabale,23:00,Low,2
+Ghansoli,00:00,Low,2
+Ghansoli,01:00,Low,1
+Ghansoli,02:00,Low,1
+Ghansoli,03:00,Low,1
+Ghansoli,04:00,Low,2
+Ghansoli,05:00,Medium,3
+Ghansoli,06:00,Medium,4
+Ghansoli,07:00,High,3
+Ghansoli,08:00,High,2
+Ghansoli,09:00,High,2
+Ghansoli,10:00,Medium,3
+Ghansoli,11:00,Medium,4
+Ghansoli,12:00,Medium,4
+Ghansoli,13:00,Medium,4
+Ghansoli,14:00,Medium,4
+Ghansoli,15:00,Medium,4
+Ghansoli,16:00,High,3
+Ghansoli,17:00,High,2
+Ghansoli,18:00,High,2
+Ghansoli,19:00,High,2
+Ghansoli,20:00,Medium,3
+Ghansoli,21:00,Medium,3
+Ghansoli,22:00,Medium,2
+Ghansoli,23:00,Low,2
+Koparkhairane,00:00,Low,2
+Koparkhairane,01:00,Low,1
+Koparkhairane,02:00,Low,1
+Koparkhairane,03:00,Low,1
+Koparkhairane,04:00,Low,2
+Koparkhairane,05:00,Medium,3
+Koparkhairane,06:00,Medium,4
+Koparkhairane,07:00,High,3
+Koparkhairane,08:00,High,2
+Koparkhairane,09:00,High,2
+Koparkhairane,10:00,Medium,3
+Koparkhairane,11:00,Medium,4
+Koparkhairane,12:00,Medium,4
+Koparkhairane,13:00,Medium,4
+Koparkhairane,14:00,Medium,4
+Koparkhairane,15:00,Medium,4
+Koparkhairane,16:00,High,3
+Koparkhairane,17:00,High,2
+Koparkhairane,18:00,High,2
+Koparkhairane,19:00,High,2
+Koparkhairane,20:00,Medium,3
+Koparkhairane,21:00,Medium,3
+Koparkhairane,22:00,Medium,2
+Koparkhairane,23:00,Low,2
+Turbhe,00:00,Low,2
+Turbhe,01:00,Low,1
+Turbhe,02:00,Low,1
+Turbhe,03:00,Low,1
+Turbhe,04:00,Low,2
+Turbhe,05:00,Medium,3
+Turbhe,06:00,Medium,4
+Turbhe,07:00,High,3
+Turbhe,08:00,High,2
+Turbhe,09:00,High,2
+Turbhe,10:00,Medium,3
+Turbhe,11:00,Medium,4
+Turbhe,12:00,Medium,4
+Turbhe,13:00,Medium,4
+Turbhe,14:00,Medium,4
+Turbhe,15:00,Medium,4
+Turbhe,16:00,High,3
+Turbhe,17:00,High,2
+Turbhe,18:00,High,2
+Turbhe,19:00,High,2
+Turbhe,20:00,Medium,3
+Turbhe,21:00,Medium,3
+Turbhe,22:00,Medium,2
+Turbhe,23:00,Low,2
+Nilaje,00:00,Low,1
+Nilaje,01:00,Low,1
+Nilaje,02:00,Low,1
+Nilaje,03:00,Low,1
+Nilaje,04:00,Low,1
+Nilaje,05:00,Low,2
+Nilaje,06:00,Medium,2
+Nilaje,07:00,Medium,2
+Nilaje,08:00,Medium,2
+Nilaje,09:00,Low,3
+Nilaje,10:00,Low,3
+Nilaje,11:00,Low,3
+Nilaje,12:00,Low,3
+Nilaje,13:00,Low,3
+Nilaje,14:00,Low,3
+Nilaje,15:00,Low,3
+Nilaje,16:00,Medium,2
+Nilaje,17:00,Medium,2
+Nilaje,18:00,Medium,2
+Nilaje,19:00,Medium,2
+Nilaje,20:00,Low,2
+Nilaje,21:00,Low,1
+Nilaje,22:00,Low,1
+Nilaje,23:00,Low,1
+Taloja,00:00,Low,1
+Taloja,01:00,Low,1
+Taloja,02:00,Low,1
+Taloja,03:00,Low,1
+Taloja,04:00,Low,1
+Taloja,05:00,Low,2
+Taloja,06:00,Medium,2
+Taloja,07:00,Medium,2
+Taloja,08:00,Medium,2
+Taloja,09:00,Low,3
+Taloja,10:00,Low,3
+Taloja,11:00,Low,3
+Taloja,12:00,Low,3
+Taloja,13:00,Low,3
+Taloja,14:00,Low,3
+Taloja,15:00,Low,3
+Taloja,16:00,Medium,2
+Taloja,17:00,Medium,2
+Taloja,18:00,Medium,2
+Taloja,19:00,Medium,2
+Taloja,20:00,Low,2
+Taloja,21:00,Low,1
+Taloja,22:00,Low,1
+Taloja,23:00,Low,1
+Navade Rd,00:00,Low,1
+Navade Rd,01:00,Low,1
+Navade Rd,02:00,Low,1
+Navade Rd,03:00,Low,1
+Navade Rd,04:00,Low,1
+Navade Rd,05:00,Low,2
+Navade Rd,06:00,Medium,2
+Navade Rd,07:00,Medium,2
+Navade Rd,08:00,Medium,2
+Navade Rd,09:00,Low,3
+Navade Rd,10:00,Low,3
+Navade Rd,11:00,Low,3
+Navade Rd,12:00,Low,3
+Navade Rd,13:00,Low,3
+Navade Rd,14:00,Low,3
+Navade Rd,15:00,Low,3
+Navade Rd,16:00,Medium,2
+Navade Rd,17:00,Medium,2
+Navade Rd,18:00,Medium,2
+Navade Rd,19:00,Medium,2
+Navade Rd,20:00,Low,2
+Navade Rd,21:00,Low,1
+Navade Rd,22:00,Low,1
+Navade Rd,23:00,Low,1
+Kalamboli,00:00,Low,1
+Kalamboli,01:00,Low,1
+Kalamboli,02:00,Low,1
+Kalamboli,03:00,Low,1
+Kalamboli,04:00,Low,1
+Kalamboli,05:00,Low,2
+Kalamboli,06:00,Medium,2
+Kalamboli,07:00,Medium,2
+Kalamboli,08:00,Medium,2
+Kalamboli,09:00,Low,3
+Kalamboli,10:00,Low,3
+Kalamboli,11:00,Low,3
+Kalamboli,12:00,Low,3
+Kalamboli,13:00,Low,3
+Kalamboli,14:00,Low,3
+Kalamboli,15:00,Low,3
+Kalamboli,16:00,Medium,2
+Kalamboli,17:00,Medium,2
+Kalamboli,18:00,Medium,2
+Kalamboli,19:00,Medium,2
+Kalamboli,20:00,Low,2
+Kalamboli,21:00,Low,1
+Kalamboli,22:00,Low,1
+Kalamboli,23:00,Low,1
+Apta,00:00,Low,1
+Apta,01:00,Low,1
+Apta,02:00,Low,1
+Apta,03:00,Low,1
+Apta,04:00,Low,1
+Apta,05:00,Low,2
+Apta,06:00,Low,2
+Apta,07:00,Medium,2
+Apta,08:00,Medium,2
+Apta,09:00,Low,3
+Apta,10:00,Low,3
+Apta,11:00,Low,3
+Apta,12:00,Low,3
+Apta,13:00,Low,3
+Apta,14:00,Low,3
+Apta,15:00,Low,3
+Apta,16:00,Low,2
+Apta,17:00,Medium,2
+Apta,18:00,Medium,2
+Apta,19:00,Low,2
+Apta,20:00,Low,2
+Apta,21:00,Low,1
+Apta,22:00,Low,1
+Apta,23:00,Low,1
+Rasayani,00:00,Low,1
+Rasayani,01:00,Low,1
+Rasayani,02:00,Low,1
+Rasayani,03:00,Low,1
+Rasayani,04:00,Low,1
+Rasayani,05:00,Low,2
+Rasayani,06:00,Low,2
+Rasayani,07:00,Medium,2
+Rasayani,08:00,Medium,2
+Rasayani,09:00,Low,3
+Rasayani,10:00,Low,3
+Rasayani,11:00,Low,3
+Rasayani,12:00,Low,3
+Rasayani,13:00,Low,3
+Rasayani,14:00,Low,3
+Rasayani,15:00,Low,3
+Rasayani,16:00,Low,2
+Rasayani,17:00,Medium,2
+Rasayani,18:00,Medium,2
+Rasayani,19:00,Low,2
+Rasayani,20:00,Low,2
+Rasayani,21:00,Low,1
+Rasayani,22:00,Low,1
+Rasayani,23:00,Low,1
+Hamrapur,00:00,Low,1
+Hamrapur,01:00,Low,1
+Hamrapur,02:00,Low,1
+Hamrapur,03:00,Low,1
+Hamrapur,04:00,Low,1
+Hamrapur,05:00,Low,2
+Hamrapur,06:00,Low,2
+Hamrapur,07:00,Medium,2
+Hamrapur,08:00,Medium,2
+Hamrapur,09:00,Low,3
+Hamrapur,10:00,Low,3
+Hamrapur,11:00,Low,3
+Hamrapur,12:00,Low,3
+Hamrapur,13:00,Low,3
+Hamrapur,14:00,Low,3
+Hamrapur,15:00,Low,3
+Hamrapur,16:00,Low,2
+Hamrapur,17:00,Medium,2
+Hamrapur,18:00,Medium,2
+Hamrapur,19:00,Low,2
+Hamrapur,20:00,Low,2
+Hamrapur,21:00,Low,1
+Hamrapur,22:00,Low,1
+Hamrapur,23:00,Low,1
+Pen,00:00,Low,1
+Pen,01:00,Low,1
+Pen,02:00,Low,1
+Pen,03:00,Low,1
+Pen,04:00,Low,1
+Pen,05:00,Low,2
+Pen,06:00,Medium,2
+Pen,07:00,Medium,2
+Pen,08:00,Medium,2
+Pen,09:00,Low,3
+Pen,10:00,Low,3
+Pen,11:00,Low,3
+Pen,12:00,Low,3
+Pen,13:00,Low,3
+Pen,14:00,Low,3
+Pen,15:00,Low,3
+Pen,16:00,Medium,2
+Pen,17:00,Medium,2
+Pen,18:00,Medium,2
+Pen,19:00,Medium,2
+Pen,20:00,Low,2
+Pen,21:00,Low,1
+Pen,22:00,Low,1
+Pen,23:00,Low,1
+Nagothane,00:00,Low,1
+Nagothane,01:00,Low,1
+Nagothane,02:00,Low,1
+Nagothane,03:00,Low,1
+Nagothane,04:00,Low,1
+Nagothane,05:00,Low,2
+Nagothane,06:00,Medium,2
+Nagothane,07:00,Medium,2
+Nagothane,08:00,Medium,2
+Nagothane,09:00,Low,3
+Nagothane,10:00,Low,3
+Nagothane,11:00,Low,3
+Nagothane,12:00,Low,3
+Nagothane,13:00,Low,3
+Nagothane,14:00,Low,3
+Nagothane,15:00,Low,3
+Nagothane,16:00,Medium,2
+Nagothane,17:00,Medium,2
+Nagothane,18:00,Medium,2
+Nagothane,19:00,Medium,2
+Nagothane,20:00,Low,2
+Nagothane,21:00,Low,1
+Nagothane,22:00,Low,1
+Nagothane,23:00,Low,1
+Khasu,00:00,Low,1
+Khasu,01:00,Low,1
+Khasu,02:00,Low,1
+Khasu,03:00,Low,1
+Khasu,04:00,Low,1
+Khasu,05:00,Low,2
+Khasu,06:00,Low,2
+Khasu,07:00,Low,2
+Khasu,08:00,Low,2
+Khasu,09:00,Low,3
+Khasu,10:00,Low,3
+Khasu,11:00,Low,3
+Khasu,12:00,Low,3
+Khasu,13:00,Low,3
+Khasu,14:00,Low,3
+Khasu,15:00,Low,3
+Khasu,16:00,Low,2
+Khasu,17:00,Low,2
+Khasu,18:00,Low,2
+Khasu,19:00,Low,2
+Khasu,20:00,Low,2
+Khasu,21:00,Low,1
+Khasu,22:00,Low,1
+Khasu,23:00,Low,1
+Roha,00:00,Low,1
+Roha,01:00,Low,1
+Roha,02:00,Low,1
+Roha,03:00,Low,1
+Roha,04:00,Low,2
+Roha,05:00,Medium,3
+Roha,06:00,Medium,3
+Roha,07:00,Medium,3
+Roha,08:00,Medium,3
+Roha,09:00,Low,4
+Roha,10:00,Low,4
+Roha,11:00,Low,4
+Roha,12:00,Low,4
+Roha,13:00,Low,4
+Roha,14:00,Low,4
+Roha,15:00,Low,4
+Roha,16:00,Medium,3
+Roha,17:00,Medium,3
+Roha,18:00,Medium,3
+Roha,19:00,Medium,3
+Roha,20:00,Low,3
+Roha,21:00,Low,2
+Roha,22:00,Low,2
+Roha,23:00,Low,1
